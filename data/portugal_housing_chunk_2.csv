@@ -1,0 +1,1001 @@
+Price,District,City,Town,Type,EnergyCertificate,Floor,Lift,Parking,HasParking,ConstructionYear,TotalArea,GrossArea,PublishDate,Garage,Elevator,ElectricCarsCharging,TotalRooms,NumberOfBedrooms,NumberOfWC,ConservationStatus,LivingArea,LotSize,BuiltArea,NumberOfBathrooms
+880000.0,Faro,Silves,Silves,Land,NC,,False,0.0,False,,3700.0,,,,,,,,,,,,,0.0
+220000.0,Faro,Albufeira,Guia,Apartment,D,2nd Floor,False,0.0,False,1989.0,47.0,58.0,,,,,1.0,,,,47.0,,,1.0
+335000.0,Faro,Lagoa (Algarve),Estômbar e Parchal,House,E,Ground Floor,False,0.0,False,1962.0,162.0,,,,,,2.0,,,,66.0,,,2.0
+470000.0,Faro,Silves,Armação de Pêra,Apartment,A,3rd Floor,True,2.0,True,,1253.0,98.0,,,,,2.0,,,,87.0,,,2.0
+470000.0,Faro,Silves,Armação de Pêra,Apartment,A,3rd Floor,True,2.0,True,,1253.0,105.0,,,,,2.0,,,,83.0,,,2.0
+520000.0,Faro,Silves,Armação de Pêra,Apartment,A,4th Floor,True,2.0,True,,1253.0,129.0,,,,,3.0,,,,103.0,,,3.0
+560000.0,Faro,Silves,Armação de Pêra,Apartment,B,4th Floor,True,2.0,True,,1253.0,129.0,,,,,3.0,,,,103.0,,,3.0
+189000.0,Faro,Portimão,Portimão,Apartment,C,3rd Floor,True,0.0,False,1974.0,75.0,,,,,,2.0,,,,75.0,,,1.0
+185000.0,Faro,Lagoa (Algarve),Lagoa e Carvoeiro,Apartment,D,3rd Floor,False,0.0,False,1994.0,40.0,,,,,,1.0,,,,38.0,,,
+2500.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,B-,1st Floor,True,0.0,False,1985.0,10368.0,35.0,,,,,0.0,,,,30.0,,,1.0
+6000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,B-,1st Floor,True,0.0,False,1985.0,10368.0,35.0,,,,,0.0,,,,30.0,,,1.0
+6500.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,B-,1st Floor,True,0.0,False,1985.0,10368.0,35.0,,,,,0.0,,,,30.0,,,1.0
+2500.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,B-,1st Floor,True,0.0,False,1985.0,10368.0,35.0,,,,,0.0,,,,30.0,,,1.0
+258000.0,Faro,Portimão,Portimão,Apartment,D,Ground Floor,False,0.0,False,1989.0,78.0,96.0,,,,,2.0,,,,78.0,,,1.0
+185000.0,Faro,Silves,Armação de Pêra,Apartment,E,6th Floor,True,1.0,True,1975.0,43.0,,,,,,1.0,,,,49.0,,,
+799000.0,Faro,Faro,Montenegro,House,B,,False,3.0,True,,305.0,,,,,,4.0,,,,265.0,,,6.0
+370000.0,Faro,Silves,Armação de Pêra,Apartment,B,Ground Floor,True,1.0,True,,1253.0,80.0,,,,,2.0,,,,69.0,,,2.0
+99000.0,Faro,Portimão,Portimão,Office,C,Ground Floor,False,0.0,False,,86.0,,,,,,,,,,,,,0.0
+300000.0,Faro,Lagos,Bensafrim e Barão de São João,Land,NC,,False,0.0,False,1958.0,25280.0,,,,,,,,,,,,,
+129610.0,Faro,Olhão,Olhão,Store,B-,Ground Floor,False,0.0,False,1984.0,99.0,99.0,,,,,,,,,,,,1.0
+430000.0,Faro,Castro Marim,Altura,House,D,,False,1.0,True,1988.0,238.0,,,,,,3.0,,,,147.0,,,3.0
+85000.0,Faro,Vila Real de Santo António,Vila Nova de Cacela,Land,NC,,False,0.0,False,,12200.0,12200.0,,,,,,,,,12200.0,,,
+990000.0,Faro,Olhão,Moncarapacho e Fuseta,House,A,Ground Floor,False,1.0,True,2016.0,201.0,,,,,,3.0,,,,173.0,,,3.0
+320000.0,Faro,Castro Marim,Castro Marim,House,E,,False,0.0,False,1974.0,332.0,,,,,,5.0,,,,146.0,,,1.0
+297000.0,Faro,Portimão,Portimão,Apartment,C,2nd Floor,True,1.0,True,2009.0,99.0,126.0,,,,,3.0,,,,126.0,,,2.0
+249500.0,Faro,Vila Real de Santo António,Vila Real de Santo António,Apartment,A,2nd Floor,True,0.0,False,2019.0,80.0,,,,,,2.0,,,,72.0,,,2.0
+560000.0,Faro,Silves,Armação de Pêra,Apartment,A,4th Floor,True,2.0,True,,1253.0,113.0,,,,,2.0,,,,98.0,,,2.0
+850000.0,Faro,Silves,Armação de Pêra,Apartment,B,5th Floor,True,2.0,True,,1253.0,206.0,,,,,4.0,,,,148.0,,,4.0
+470000.0,Faro,Silves,Armação de Pêra,Apartment,A,3rd Floor,True,2.0,True,,1253.0,105.0,,,,,2.0,,,,83.0,,,2.0
+8800.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,Ground Floor,False,0.0,False,1990.0,58.0,,,,,,1.0,,,,58.0,,,
+37000.0,Faro,Silves,Algoz e Tunes,Land,E,,False,0.0,False,,2640.0,2640.0,,,,,,,,,2640.0,,,
+390000.0,Faro,São Brás de Alportel,São Brás de Alportel,House,NC,,False,3.0,True,1908.0,1871.0,,,,,,5.0,,,,1208.0,,,
+2500.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,B-,1st Floor,True,0.0,False,1985.0,10368.0,35.0,,,,,0.0,,,,30.0,,,1.0
+150000.0,Faro,Vila Real de Santo António,Vila Real de Santo António,Apartment,C,Ground Floor,True,0.0,False,2013.0,70.0,77.0,,,,,1.0,,,,70.0,,,1.0
+161000.0,Faro,Vila Real de Santo António,Vila Real de Santo António,Apartment,C,Ground Floor,True,0.0,False,2013.0,62.0,68.0,,,,,1.0,,,,62.0,,,1.0
+485000.0,Faro,Loulé,Quarteira,Apartment,D,1st Floor,True,1.0,True,1999.0,119.0,,,,,,2.0,,,,71.0,,,2.0
+825000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,A,2nd Floor,True,2.0,True,2023.0,136.0,44.0,,,,,2.0,,,,136.0,,,2.0
+279000.0,Faro,Faro,Faro (Sé e São Pedro),Apartment,D,1st Floor,False,0.0,False,1982.0,120.0,,,,,,2.0,,,,79.0,,,2.0
+190000.0,Faro,Faro,Conceição e Estoi,Land,NC,,False,0.0,False,,51720.0,,,,,,,,,,,,,0.0
+359000.0,Faro,Loulé,Quarteira,Apartment,E,4th Floor,True,1.0,True,1984.0,268.0,83.0,,,,,2.0,,,,71.0,,,2.0
+990000.0,Faro,Olhão,Moncarapacho e Fuseta,House,A,Ground Floor,False,1.0,True,2016.0,201.0,,,,,,3.0,,,,173.0,,,3.0
+990000.0,Faro,Olhão,Moncarapacho e Fuseta,House,A,Ground Floor,False,1.0,True,2016.0,201.0,,,,,,3.0,,,,173.0,,,3.0
+289900.0,Faro,Silves,São Bartolomeu de Messines,House,D,,False,2.0,True,2015.0,140.0,,,,,,3.0,,,,140.0,,,4.0
+310000.0,Faro,Lagoa (Algarve),Lagoa e Carvoeiro,House,NC,,False,3.0,True,1951.0,2760.0,180.0,,,,,2.0,,,,72.0,,,
+470000.0,Faro,Silves,Armação de Pêra,Apartment,A,3rd Floor,True,2.0,True,,1253.0,98.0,,,,,2.0,,,,87.0,,,2.0
+850000.0,Faro,Silves,Armação de Pêra,Apartment,A,5th Floor,True,2.0,True,,1253.0,206.0,,,,,4.0,,,,148.0,,,4.0
+3000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,B-,1st Floor,True,0.0,False,1985.0,10368.0,35.0,,,,,0.0,,,,30.0,,,1.0
+420000.0,Faro,Silves,Armação de Pêra,Apartment,A,2nd Floor,True,1.0,True,,1253.0,83.0,,,,,2.0,,,,79.0,,,2.0
+22800.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,1st Floor,False,0.0,False,1990.0,58.0,,,,,,1.0,,,,58.0,,,1.0
+70000.0,Faro,Castro Marim,Odeleite,House,NC,,False,0.0,False,1950.0,194.0,140.0,,,,,3.0,,,,124.0,,,0.0
+380000.0,Faro,Aljezur,Odeceixe,House,B,,False,0.0,False,1976.0,98.0,,,,,,2.0,,,,98.0,,,2.0
+520000.0,Faro,Portimão,Portimão,Apartment,A,Ground Floor,True,1.0,True,,426.0,247.0,,,,,4.0,,,,189.0,,,5.0
+375000.0,Faro,Aljezur,Bordeira,Land,NC,,False,0.0,False,1999.0,514.0,,,,,,,,,,,,,
+242000.0,Faro,Faro,Faro (Sé e São Pedro),Apartment,C,7th Floor,True,1.0,True,1994.0,132.0,156.0,,,,,3.0,,,,132.0,,,2.0
+270000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,E,Ground Floor,True,0.0,False,1991.0,94.0,107.0,,,,,2.0,,,,94.0,,,2.0
+2950000.0,Faro,Loulé,Quarteira,House,C,,True,1.0,True,,533.0,,,,,,4.0,,,,533.0,,,5.0
+450000.0,Faro,Silves,Armação de Pêra,Apartment,A,3rd Floor,True,1.0,True,,1253.0,83.0,,,,,2.0,,,,79.0,,,2.0
+560000.0,Faro,Silves,Armação de Pêra,Apartment,A,4th Floor,True,2.0,True,,1253.0,113.0,,,,,2.0,,,,98.0,,,2.0
+205000.0,Faro,Portimão,Portimão,Apartment,E,9th Floor,True,1.0,True,2002.0,450.0,68.0,,,,,1.0,,,,59.0,,,1.0
+300000.0,Faro,Faro,Faro (Sé e São Pedro),Apartment,D,3rd Floor,True,1.0,True,1992.0,98.0,,,,,,3.0,,,,114.0,,,2.0
+450000.0,Faro,Silves,Armação de Pêra,Apartment,A,3rd Floor,True,1.0,True,,1253.0,83.0,,,,,2.0,,,,79.0,,,2.0
+440000.0,Faro,Silves,Armação de Pêra,Apartment,A,2nd Floor,True,2.0,True,,1253.0,105.0,,,,,2.0,,,,83.0,,,2.0
+3900000.0,Faro,Loulé,Almancil,Other - Commercial,B,,False,0.0,False,,17948.0,17948.0,,,,,,,,,,,,
+410000.0,Faro,Silves,Armação de Pêra,Apartment,A,1st Floor,True,1.0,True,,1253.0,105.0,,,,,2.0,,,,83.0,,,2.0
+410000.0,Faro,Silves,Armação de Pêra,Apartment,A,1st Floor,True,1.0,True,,1253.0,98.0,,,,,2.0,,,,87.0,,,2.0
+420000.0,Faro,Silves,Armação de Pêra,Apartment,A,2nd Floor,True,1.0,True,,1253.0,83.0,,,,,2.0,,,,79.0,,,2.0
+440000.0,Faro,Silves,Armação de Pêra,Apartment,A,2nd Floor,True,2.0,True,,1253.0,105.0,,,,,2.0,,,,83.0,,,2.0
+440000.0,Faro,Silves,Armação de Pêra,Apartment,A,2nd Floor,True,2.0,True,,1253.0,98.0,,,,,2.0,,,,87.0,,,2.0
+970000.0,Faro,Olhão,Moncarapacho e Fuseta,House,A,Ground Floor,False,1.0,True,2016.0,173.0,,,,,,3.0,,,,173.0,,,4.0
+110000.0,Faro,Castro Marim,Odeleite,House,NC,,False,0.0,False,1950.0,320.0,115.0,,,,,3.0,,,,49.0,,,0.0
+380000.0,Faro,Faro,Faro (Sé e São Pedro),House,NC,,False,0.0,False,1950.0,192.0,,,,,,3.0,,,,125.0,,,2.0
+299000.0,Faro,Vila Real de Santo António,Monte Gordo,Apartment,C,1st Floor,True,0.0,False,1998.0,64.0,74.0,,,,,2.0,,,,64.0,,,1.0
+990000.0,Faro,Olhão,Moncarapacho e Fuseta,House,A,Ground Floor,False,1.0,True,2016.0,175.0,,,,,,3.0,,,,175.0,,,4.0
+850000.0,Faro,Aljezur,Odeceixe,House,NC,,False,0.0,False,2007.0,158.0,,,,,,2.0,,,,127.0,,,0.0
+275000.0,Faro,Lagos,Bensafrim e Barão de São João,Land,NC,,False,0.0,False,,11320.0,145.0,,,,,,,,,145.0,,,
+1100000.0,Faro,Olhão,Moncarapacho e Fuseta,House,A,Ground Floor,False,1.0,True,2016.0,173.0,,,,,,3.0,,,,173.0,,,4.0
+555000.0,Faro,Loulé,"Querença, Tôr e Benafim",House,E,,False,3.0,True,1941.0,38011.0,38011.0,,,,,2.0,,,,156.0,,,1.0
+52000.0,Faro,Loulé,Boliqueime,Land,NC,,False,0.0,False,,5000.0,5000.0,,,,,,,,,5000.0,,,
+390000.0,Faro,Silves,Armação de Pêra,Apartment,A,1st Floor,True,1.0,True,,1253.0,83.0,,,,,2.0,,,,79.0,,,2.0
+390000.0,Faro,Silves,Armação de Pêra,Apartment,A,1st Floor,True,1.0,True,,1253.0,83.0,,,,,2.0,,,,79.0,,,2.0
+3300000.0,Faro,Faro,Conceição e Estoi,Farm,NC,,False,0.0,False,,169800.0,,,,,,,,,,,,,0.0
+355000.0,Faro,Portimão,Portimão,House,B,Ground Floor,False,1.0,True,1992.0,180.0,141.0,,,,,3.0,,,,109.0,,,2.0
+970000.0,Faro,Olhão,Moncarapacho e Fuseta,House,A,Ground Floor,False,1.0,True,2016.0,173.0,,,,,,3.0,,,,173.0,,,4.0
+80000.0,Faro,Loulé,Boliqueime,Land,NC,,False,0.0,False,,6300.0,6300.0,,,,,0.0,,,,6300.0,,,0.0
+187500.0,Faro,Portimão,Portimão,Apartment,D,Ground Floor,False,0.0,False,1990.0,101.0,222.0,,,,,2.0,,,,91.0,,,3.0
+295000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,E,2nd Floor,False,0.0,False,2000.0,92.0,,,,,,2.0,,,,92.0,,,2.0
+232000.0,Faro,Silves,Alcantarilha e Pêra,Apartment,E,2nd Floor,False,1.0,True,2000.0,93.0,,,,,,2.0,,,,93.0,,,1.0
+2300000.0,Faro,Lagoa (Algarve),Lagoa e Carvoeiro,House,A,,False,2.0,True,,2260000.0,,,,,,4.0,,,,205.0,,,5.0
+375525.0,Faro,Aljezur,Odeceixe,House,E,,False,0.0,False,1982.0,119.0,119.0,,,,,4.0,,,,119.0,,,2.0
+450000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,D,1st Floor,False,0.0,False,1996.0,151.0,158.0,,,,,3.0,,,,151.0,,,2.0
+1150000.0,Faro,Loulé,Boliqueime,House,C,,False,3.0,True,1989.0,1500.0,401.0,,,,,5.0,,,,401.0,,,4.0
+32000.0,Faro,Silves,Algoz e Tunes,Land,NC,,False,0.0,False,,7190.0,,,,,,,,,,,,,
+49000.0,Faro,São Brás de Alportel,São Brás de Alportel,Land,NC,,False,0.0,False,,380.0,,,,,,,,,,,,,0.0
+1400000.0,Faro,Albufeira,Guia,House,C,,False,1.0,True,2015.0,237.0,,,,,,3.0,,,,237.0,,,4.0
+24000.0,Faro,Faro,Santa Bárbara de Nexe,Land,NC,,False,0.0,False,,1400.0,,,,,,,,,,,,,
+270000.0,Faro,Lagos,São Gonçalo de Lagos,Land,NC,,False,0.0,False,,433.0,250.0,,,,,,,,,170.0,,,
+240000.0,Faro,Lagos,São Gonçalo de Lagos,Apartment,E,2nd Floor,False,0.0,False,1968.0,63.0,,,,,,3.0,,,,63.0,,,1.0
+75000.0,Faro,Silves,Algoz e Tunes,Land,NC,,False,0.0,False,,9960.0,,,,,,,,,,,,,0.0
+880000.0,Faro,Olhão,Moncarapacho e Fuseta,Farm,E,,False,3.0,True,1980.0,14256.0,389.0,,,,,8.0,,,,,,,3.0
+269000.0,Faro,Tavira,Conceição e Cabanas de Tavira,Apartment,C,2nd Floor,True,0.0,False,2012.0,0.0,103.0,,,,,0.0,,,,53.0,,,2.0
+265500.0,Faro,Portimão,Portimão,Apartment,A,Ground Floor,True,1.0,True,,358.0,96.0,,,,,2.0,,,,83.0,,,2.0
+26500.0,Faro,Albufeira,Albufeira e Olhos de Água,Garage,NC,,False,0.0,False,,50.0,,,,,,,,,,,,,0.0
+26500.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,57.0,,,,,,,,,,,,,0.0
+410000.0,Faro,Silves,Armação de Pêra,Apartment,A,1st Floor,True,1.0,True,,1253.0,98.0,,,,,2.0,,,,87.0,,,2.0
+230000.0,Faro,Faro,Faro (Sé e São Pedro),Land,NC,,False,0.0,False,,1920.0,,,,,,,,,,,,,0.0
+1100000.0,Faro,São Brás de Alportel,São Brás de Alportel,Farm,NC,,False,0.0,False,,12088.0,,,,,,,,,,,,,0.0
+650000.0,Faro,Loulé,São Sebastião,House,C,,False,3.0,True,1990.0,1050.0,197.0,,,,,3.0,,,,145.0,,,2.0
+11500.0,Faro,Albufeira,Albufeira e Olhos de Água,Other - Residential,NC,4th Floor,True,2.0,True,1990.0,28.0,,,,,,0.0,,,,27.0,,,1.0
+695000.0,Faro,Albufeira,Albufeira e Olhos de Água,House,D,,False,1.0,True,1988.0,1000.0,,,,,,3.0,,,,124.0,,,3.0
+60000.0,Faro,Silves,São Bartolomeu de Messines,Land,NC,,False,0.0,False,,25960.0,,,,,,,,,,25960.0,,,0.0
+285500.0,Faro,Portimão,Portimão,Apartment,A,1st Floor,True,1.0,True,,358.0,90.0,,,,,2.0,,,,77.0,,,2.0
+850000.0,Faro,Albufeira,Guia,House,NC,,False,1.0,True,1984.0,693.0,,,,,,4.0,,,,254.0,,,6.0
+26500.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,57.0,,,,,,,,,,,,,0.0
+18000.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,39.0,,,,,,,,,,,,,0.0
+410000.0,Faro,Silves,Armação de Pêra,Apartment,A,1st Floor,True,1.0,True,,1253.0,105.0,,,,,2.0,,,,83.0,,,2.0
+440000.0,Faro,Silves,Armação de Pêra,Apartment,A,2nd Floor,True,2.0,True,,1253.0,98.0,,,,,2.0,,,,87.0,,,2.0
+199000.0,Faro,Silves,Algoz e Tunes,Apartment,E,3rd Floor,True,0.0,False,2008.0,67.0,85.0,,,,,2.0,,,,67.0,,,2.0
+49500.0,Faro,Faro,Conceição e Estoi,Land,NC,,False,0.0,False,,11240.0,,,,,,,,,,,,,
+200000.0,Faro,Portimão,Portimão,Apartment,D,6th Floor,True,1.0,True,2009.0,501.0,76.0,,,,,1.0,,,,62.0,,,1.0
+4600000.0,Faro,Olhão,Quelfes,Land,NC,,False,0.0,False,,9108.0,3485.0,,,,,,,,,949.0,,,0.0
+790000.0,Faro,Faro,Montenegro,House,B,,False,3.0,True,2013.0,518.0,,,,,,4.0,,,,230.0,,,6.0
+12500.0,Faro,Loulé,Salir,Land,NC,,False,0.0,False,,1210.0,,,,,,,,,,,,,0.0
+28000.0,Faro,Faro,Santa Bárbara de Nexe,Land,NC,,False,0.0,False,,5880.0,,,,,,,,,,,,,
+189000.0,Faro,Olhão,Olhão,Apartment,C,3rd Floor,True,0.0,False,1998.0,105.0,,,,,,2.0,,,,105.0,,,1.0
+1980000.0,Faro,Portimão,Portimão,Land,NC,,False,0.0,False,,21720.0,,,,,,,,,,,,,0.0
+180000.0,Faro,Vila do Bispo,Sagres,Land,NC,,False,0.0,False,,361.0,,,,,,,,,,,,,0.0
+160500.0,Faro,Albufeira,Guia,Apartment,E,1st Floor,False,0.0,False,1989.0,55.0,55.0,,,,,2.0,,,,55.0,,,1.0
+750000.0,Faro,Albufeira,Albufeira e Olhos de Água,Other - Commercial,C,Ground Floor,False,0.0,False,,150.0,,,,,,,,,,,,,0.0
+5000.0,Faro,Albufeira,Albufeira e Olhos de Água,Other - Residential,NC,,True,1.0,True,1989.0,40.0,,,,,,0.0,,,,,,,1.0
+1000000.0,Faro,Silves,Alcantarilha e Pêra,Land,NC,,False,0.0,False,,11280.0,,,,,,,,,,,,,0.0
+5000000.0,Faro,Albufeira,Albufeira e Olhos de Água,House,C,,False,2.0,True,2003.0,1360.0,394.0,,,,,4.0,,,,290.0,,,6.0
+1300000.0,Faro,Olhão,Olhão,Building,E,,False,1.0,True,1970.0,169.0,,,,,,7.0,,,,230.0,,,4.0
+248000.0,Faro,Portimão,Portimão,Apartment,C,8th Floor,True,0.0,False,2008.0,86.0,66.0,,,,,2.0,,,,66.0,,,2.0
+18000.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,27.0,,,,,,,,,,,,,0.0
+18000.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,28.0,,,,,,,,,,,,,0.0
+26500.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,57.0,,,,,,,,,,,,,0.0
+26500.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,57.0,,,,,,,,,,,,,0.0
+26500.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,57.0,,,,,,,,,,,,,0.0
+19000.0,Faro,São Brás de Alportel,São Brás de Alportel,Land,NC,,False,0.0,False,,850.0,,,,,,,,,,,,,0.0
+840000.0,Faro,Loulé,Quarteira,House,C,,False,1.0,True,2003.0,212.0,,,,,,3.0,,,,162.0,,,4.0
+535000.0,Faro,Loulé,Quarteira,Apartment,E,2nd Floor,False,1.0,True,2003.0,115.0,115.0,,,,,2.0,,,,92.0,,,2.0
+115000.0,Faro,Silves,São Bartolomeu de Messines,Other - Residential,NC,,False,3.0,True,,75.0,25.0,,,,,3.0,,,,75.0,,,0.0
+960000.0,Faro,Portimão,Portimão,Building,F,,False,3.0,True,1951.0,996.0,,,,,,12.0,,,,996.0,,,6.0
+225000.0,Faro,Portimão,Alvor,Apartment,C,2nd Floor,True,0.0,False,2000.0,123.0,,,,,,3.0,,,,106.0,,,2.0
+26500.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,57.0,,,,,,,,,,,,,0.0
+8000.0,Faro,Albufeira,Albufeira e Olhos de Água,Other - Residential,NC,,True,1.0,True,1989.0,40.0,,,,,,0.0,,,,,,,1.0
+189000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,C,4th Floor,True,0.0,False,1988.0,69.0,57.0,,,,,1.0,,,,69.0,,,2.0
+1900000.0,Faro,Olhão,Olhão,Building,F,,False,1.0,True,1987.0,240.0,,,,,,7.0,,,,169.0,,,5.0
+26500.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,58.0,,,,,,,,,,,,,0.0
+26500.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,58.0,,,,,,,,,,,,,0.0
+18000.0,Faro,Albufeira,Albufeira e Olhos de Água,Garage,NC,,False,0.0,False,,39.0,,,,,,,,,,,,,0.0
+18000.0,Faro,Albufeira,Albufeira e Olhos de Água,Garage,NC,,False,0.0,False,,33.0,,,,,,,,,,,,,0.0
+18000.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,39.0,,,,,,,,,,,,,0.0
+18000.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,28.0,,,,,,,,,,,,,0.0
+26500.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,58.0,,,,,,,,,,,,,0.0
+26500.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,57.0,,,,,,,,,,,,,0.0
+455000.0,Faro,Lagoa (Algarve),Lagoa e Carvoeiro,Apartment,D,1st Floor,False,1.0,True,1993.0,3265.0,174.0,,,,,2.0,,,,85.0,,,2.0
+3000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,Ground Floor,True,3.0,True,1990.0,28.0,28.0,,,,,0.0,,,,28.0,,,1.0
+3000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,Ground Floor,True,3.0,True,1990.0,28.0,28.0,,,,,0.0,,,,28.0,,,1.0
+3000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,Ground Floor,True,3.0,True,1990.0,28.0,28.0,,,,,0.0,,,,28.0,,,1.0
+8000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,Ground Floor,True,3.0,True,1990.0,28.0,28.0,,,,,0.0,,,,28.0,,,1.0
+2000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,B-,3rd Floor,True,0.0,False,1990.0,10368.0,35.0,,,,,0.0,,,,30.0,,,1.0
+255000.0,Faro,Portimão,Portimão,Apartment,C,4th Floor,True,1.0,True,2004.0,1290.0,106.0,,,,,2.0,,,,81.0,,,2.0
+9000.0,Faro,Albufeira,Albufeira e Olhos de Água,Other - Residential,NC,,True,1.0,True,1989.0,40.0,,,,,,0.0,,,,,,,1.0
+9000.0,Faro,Albufeira,Albufeira e Olhos de Água,Other - Residential,NC,,True,1.0,True,1989.0,40.0,,,,,,0.0,,,,,,,1.0
+330000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,E,1st Floor,False,1.0,True,2003.0,84.0,9.0,,,,,2.0,,,,95.0,,,2.0
+330000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,E,1st Floor,False,1.0,True,2003.0,84.0,9.0,,,,,2.0,,,,95.0,,,2.0
+18000.0,Faro,Albufeira,Albufeira e Olhos de Água,Garage,NC,,False,0.0,False,,39.0,,,,,,,,,,,,,0.0
+18000.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,39.0,,,,,,,,,,,,,0.0
+18000.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,26.0,,,,,,,,,,,,,0.0
+26500.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,51.0,,,,,,,,,,,,,0.0
+26500.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,58.0,,,,,,,,,,,,,0.0
+3000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,Ground Floor,True,3.0,True,1990.0,28.0,28.0,,,,,0.0,,,,28.0,,,1.0
+8000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,Ground Floor,True,3.0,True,1990.0,28.0,28.0,,,,,0.0,,,,28.0,,,1.0
+650000.0,Faro,Faro,Montenegro,House,B,,False,2.0,True,2011.0,300.0,,,,,,6.0,,,,300.0,,,0.0
+2000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,B-,3rd Floor,True,0.0,False,1990.0,10368.0,35.0,,,,,0.0,,,,30.0,,,1.0
+3000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,B-,3rd Floor,True,0.0,False,1990.0,10368.0,35.0,,,,,0.0,,,,30.0,,,1.0
+36500.0,Faro,Castro Marim,Castro Marim,Land,NC,,False,0.0,False,,17040.0,,,,,,,,,,,,,0.0
+350000.0,Faro,Loulé,Quarteira,Land,NC,,False,0.0,False,,6890.0,6890.0,,,,,,,,,6890.0,,,0.0
+2950000.0,Faro,Loulé,Quarteira,House,A,,False,3.0,True,,1039.0,,,,,,4.0,,,,501.0,,,5.0
+26500.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,57.0,,,,,,,,,,,,,0.0
+18000.0,Faro,Albufeira,Albufeira e Olhos de Água,Garage,NC,,False,0.0,False,,43.0,,,,,,,,,,,,,0.0
+18000.0,Faro,Albufeira,Albufeira e Olhos de Água,Garage,NC,,False,0.0,False,,40.0,,,,,,,,,,,,,0.0
+18000.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,40.0,,,,,,,,,,,,,0.0
+26500.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,58.0,,,,,,,,,,,,,0.0
+160000.0,Faro,Portimão,Alvor,Apartment,C,Ground Floor,False,3.0,True,1988.0,64.0,64.0,,,,,1.0,,,,57.0,,,1.0
+34000.0,Faro,São Brás de Alportel,São Brás de Alportel,Land,NC,,False,0.0,False,,2564.0,,,,,,,,,,,,,0.0
+3000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,Ground Floor,True,3.0,True,1990.0,28.0,28.0,,,,,0.0,,,,28.0,,,1.0
+8000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,Ground Floor,True,3.0,True,1990.0,28.0,28.0,,,,,0.0,,,,28.0,,,1.0
+3000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,Ground Floor,True,3.0,True,1990.0,28.0,28.0,,,,,0.0,,,,28.0,,,1.0
+199500.0,Faro,Vila Real de Santo António,Vila Nova de Cacela,Apartment,E,4th Floor,False,0.0,False,1990.0,75.0,87.0,,,,,2.0,,,,68.0,,,1.0
+580000.0,Faro,Loulé,São Clemente,House,E,,False,3.0,True,1937.0,15100.0,,,,,,1.0,,,,54.0,,,2.0
+260000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,D,1st Floor,False,0.0,False,1996.0,65.0,114.0,,,,,2.0,,,,65.0,,,1.0
+269000.0,Faro,Loulé,Quarteira,Apartment,C,1st Floor,True,1.0,True,2000.0,67.0,,,,,,2.0,,,,67.0,,,1.0
+900000.0,Faro,Albufeira,Albufeira e Olhos de Água,House,E,,False,2.0,True,1989.0,400.0,281.0,,,,,6.0,,,,209.0,,,5.0
+399950.0,Faro,Albufeira,Albufeira e Olhos de Água,House,NC,,False,2.0,True,2023.0,4500.0,177.0,,,,,2.0,,,,140.0,,,3.0
+670000.0,Faro,Olhão,Olhão,House,F,,False,0.0,False,1986.0,206.0,,,,,,10.0,,,,239.0,,,4.0
+320000.0,Faro,Portimão,Portimão,Apartment,A,Ground Floor,True,1.0,True,2023.0,300.0,131.0,,,,,3.0,,,,119.0,,,2.0
+430000.0,Faro,Lagos,São Gonçalo de Lagos,Store,C,,False,1.0,True,2004.0,87.0,162.0,,,,,,,,,,,,3.0
+25000.0,Faro,Loulé,Boliqueime,Land,NC,,False,3.0,True,1940.0,460.0,460.0,,,,,,,,,460.0,,,0.0
+220000.0,Faro,Castro Marim,Altura,Apartment,D,1st Floor,False,0.0,False,1961.0,239.0,57.0,,,,,2.0,,,,49.0,,,1.0
+189000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,D,1st Floor,True,1.0,True,1994.0,52.0,9.0,,,,,1.0,,,,43.0,,,1.0
+180000.0,Faro,Silves,Armação de Pêra,Apartment,B-,5th Floor,True,1.0,True,1975.0,44.0,48.0,,,,,1.0,,,,48.0,,,1.0
+82500.0,Faro,Silves,Silves,Land,NC,,False,0.0,False,,380.0,,,,,,,,,,,,,0.0
+580000.0,Faro,Portimão,Portimão,Land,NC,,False,3.0,True,,8920.0,54.0,,,,,,,,,,,,0.0
+11500.0,Faro,Loulé,Quarteira,Apartment,NC,8th Floor,True,1.0,True,2000.0,78.0,78.0,,,,,1.0,,,,78.0,,,1.0
+7500.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,Ground Floor,True,1.0,True,1990.0,27.0,,,,,,0.0,,,,27.0,,,1.0
+800000.0,Faro,Silves,São Bartolomeu de Messines,Land,NC,,False,0.0,False,,5960.0,,,,,,,,,,,,,0.0
+225000.0,Faro,Vila do Bispo,Vila do Bispo e Raposeira,House,F,Basement Level,False,0.0,False,1951.0,80.0,,,,,,2.0,,,,80.0,,,1.0
+402000.0,Faro,Tavira,Conceição e Cabanas de Tavira,House,C,,False,1.0,True,2008.0,224.0,160.0,,,,,3.0,,,,140.0,,,3.0
+25000.0,Faro,Silves,São Bartolomeu de Messines,Land,NC,,False,0.0,False,,11120.0,,,,,,,,,,,,,0.0
+1050000.0,Faro,Olhão,Moncarapacho e Fuseta,Apartment,A,2nd Floor,True,2.0,True,2021.0,137.0,,,,,,3.0,,,,137.0,,,3.0
+295000.0,Faro,Loulé,São Clemente,Apartment,D,Ground Floor,True,1.0,True,2005.0,112.0,,,,,,3.0,,,,112.0,,,2.0
+65000.0,Faro,Vila do Bispo,Budens,Land,NC,,False,0.0,False,1983.0,5880.0,,,,,,,,,,,,,0.0
+165000.0,Faro,Portimão,Alvor,Apartment,C,Ground Floor,False,3.0,True,1989.0,1782.0,64.0,,,,,1.0,,,,64.0,,,1.0
+329900.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,D,1st Floor,False,0.0,False,2000.0,121.0,104.0,,,,,2.0,,,,104.0,,,2.0
+288000.0,Faro,Lagoa (Algarve),Estômbar e Parchal,Apartment,E,2nd Floor,True,2.0,True,2006.0,846.0,179.0,,,,,3.0,,,,125.0,,,2.0
+160000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,C,2nd Floor,False,0.0,False,1975.0,58.0,64.0,,,,,1.0,,,,64.0,,,1.0
+280000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,F,1st Floor,False,1.0,True,1982.0,113.0,113.0,,,,,3.0,,,,87.0,,,2.0
+2600000.0,Faro,Loulé,Quarteira,House,A+,,False,3.0,True,2023.0,1136.0,,,,,,4.0,,,,597.0,,,3.0
+2350000.0,Faro,Lagos,São Gonçalo de Lagos,House,A+,,False,1.0,True,2022.0,262.0,,,,,,4.0,,,,300.0,,,4.0
+276000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,A,1st Floor,True,1.0,True,,10560.0,78.0,,,,,1.0,,,,49.0,,,1.0
+2000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,Ground Floor,True,1.0,True,1990.0,27.0,,,,,,0.0,,,,27.0,,,1.0
+165500.0,Faro,Portimão,Portimão,Apartment,D,8th Floor,True,1.0,True,1994.0,21953.0,50.0,,,,,1.0,,,,45.0,,,1.0
+950000.0,Faro,Lagoa (Algarve),Lagoa e Carvoeiro,Land,NC,,False,0.0,False,,10090.0,,,,,,,,,,,,,0.0
+750000.0,Faro,Olhão,Moncarapacho e Fuseta,Apartment,A,3rd Floor,True,1.0,True,2021.0,85.0,,,,,,1.0,,,,85.0,,,1.0
+650000.0,Faro,Vila do Bispo,Sagres,House,C,Ground Floor,False,1.0,True,1997.0,692.0,197.0,,,,,2.0,,,,197.0,,,2.0
+347000.0,Faro,Faro,Faro (Sé e São Pedro),Apartment,C,1st Floor,True,0.0,False,2009.0,190.0,148.0,,,,,3.0,,,,148.0,,,2.0
+9000.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,21.0,,,,,,,,,,,,,0.0
+18000.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,39.0,,,,,,,,,,,,,0.0
+26500.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,51.0,,,,,,,,,,,,,0.0
+350000.0,Faro,Portimão,Portimão,Apartment,A,1st Floor,True,1.0,True,,300.0,169.0,,,,,3.0,,,,119.0,,,2.0
+75000.0,Faro,Silves,Silves,Land,NC,,False,0.0,False,,144.0,198.0,,,,,,,,,144.0,,,0.0
+165000.0,Faro,Portimão,Alvor,Apartment,E,1st Floor,False,0.0,False,1989.0,1773.0,64.0,,,,,1.0,,,,57.0,,,1.0
+290000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,A,Ground Floor,True,1.0,True,,10560.0,92.0,,,,,1.0,,,,51.0,,,1.0
+1345000.0,Faro,Albufeira,Guia,Land,NC,,False,3.0,True,1940.0,13520.0,13520.0,,,,,,,,,13520.0,,,0.0
+15000.0,Faro,Silves,São Bartolomeu de Messines,Land,NC,,False,0.0,False,,1720.0,,,,,,,,,,,,,0.0
+2450000.0,Faro,Lagos,São Gonçalo de Lagos,House,A+,,False,1.0,True,2022.0,262.0,,,,,,4.0,,,,300.0,,,4.0
+1300000.0,Faro,Castro Marim,Castro Marim,House,E,,False,3.0,True,2002.0,1002.0,273.0,,,,,5.0,,,,223.0,,,5.0
+397000.0,Faro,Tavira,Conceição e Cabanas de Tavira,House,C,,False,1.0,True,2008.0,294.0,171.0,,,,,3.0,,,,140.0,,,3.0
+750000.0,Faro,Albufeira,Ferreiras,House,D,,False,2.0,True,1997.0,720.0,137.0,,,,,3.0,,,,131.0,,,3.0
+18000.0,Faro,Albufeira,Albufeira e Olhos de Água,Garage,NC,,False,0.0,False,,40.0,,,,,,,,,,,,,0.0
+950000.0,Faro,Loulé,Quarteira,House,F,,False,2.0,True,2000.0,205.0,306.0,,,,,3.0,,,,153.0,,,3.0
+425000.0,Faro,Loulé,Quarteira,Apartment,D,Ground Floor,False,1.0,True,1985.0,121.0,,,,,,3.0,,,,90.0,,,2.0
+5000.0,Faro,Albufeira,Guia,Apartment,B,1st Floor,True,0.0,False,1985.0,9500.0,60.0,,,,,1.0,,,,50.0,,,1.0
+18000.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,39.0,,,,,,,,,,,,,0.0
+229000.0,Faro,Vila Real de Santo António,Vila Real de Santo António,Apartment,D,Ground Floor,False,0.0,False,1987.0,87.0,107.0,,,,,2.0,,,,87.0,,,2.0
+350000.0,Faro,Silves,São Marcos da Serra,House,NC,,False,0.0,False,1951.0,699840.0,160.0,,,,,1.0,,,,76.0,,,1.0
+79000.0,Faro,Portimão,Portimão,Store,D,,False,0.0,False,1983.0,63.0,,,,,,,,,,,,,0.0
+13000.0,Faro,Albufeira,Albufeira e Olhos de Água,Other - Residential,NC,3rd Floor,True,0.0,False,1993.0,50.0,,,,,,1.0,,,,50.0,,,1.0
+520000.0,Faro,Loulé,São Sebastião,Land,NC,,False,1.0,True,2022.0,225.0,,,,,,3.0,,,,,,,3.0
+680000.0,Faro,Portimão,Alvor,Store,B,,False,0.0,False,2001.0,274.0,207.0,,,,,,,,,202.0,,,3.0
+145000.0,Faro,Faro,Faro (Sé e São Pedro),Store,C,Ground Floor,False,0.0,False,1994.0,103.0,,,,,,,,,,103.0,,,2.0
+2000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,Ground Floor,True,1.0,True,1990.0,27.0,,,,,,0.0,,,,27.0,,,1.0
+239000.0,Faro,Silves,Armação de Pêra,Apartment,C,3rd Floor,True,1.0,True,2009.0,103.0,,,,,,1.0,,,,75.0,,,1.0
+90000.0,Faro,Vila Real de Santo António,Vila Nova de Cacela,Store,D,Ground Floor,False,0.0,False,1991.0,62.0,62.0,,,,,,,,,62.0,,,2.0
+375000.0,Faro,Loulé,Quarteira,Apartment,C,Ground Floor,True,2.0,True,1995.0,182.0,182.0,,,,,2.0,,,,120.0,,,2.0
+295000.0,Faro,Faro,Faro (Sé e São Pedro),Store,B-,Basement Level,False,1.0,True,2005.0,214.0,214.0,,,,,,,,,191.0,,,2.0
+26500.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,50.0,,,,,,,,,,,,,0.0
+18000.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,32.0,,,,,,,,,,,,,0.0
+26500.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,51.0,,,,,,,,,,,,,0.0
+26500.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,50.0,,,,,,,,,,,,,0.0
+215000.0,Faro,Faro,Santa Bárbara de Nexe,Apartment,C,Ground Floor,False,1.0,True,1985.0,90.0,,,,,,2.0,,,,78.0,,,2.0
+350000.0,Faro,Faro,Faro (Sé e São Pedro),Store,C,Ground Floor,False,2.0,True,,437.0,,,,,,,,,,437.0,,,1.0
+595000.0,Faro,Faro,Conceição e Estoi,Farm,NC,,False,3.0,True,1996.0,27340.0,386.0,,,,,3.0,,,,386.0,,,1.0
+205000.0,Faro,Castro Marim,Castro Marim,Land,NC,,False,0.0,False,,720.0,338.0,,,,,,,,,,,,0.0
+677000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,B,3rd Floor,True,1.0,True,,10560.0,233.0,,,,,2.0,,,,126.0,,,2.0
+2950000.0,Faro,Loulé,Quarteira,House,A,,False,3.0,True,,960.0,,,,,,4.0,,,,333.0,,,5.0
+750000.0,Faro,Portimão,Portimão,House,A,,False,2.0,True,,400.0,292.0,,,,,4.0,,,,189.0,,,4.0
+380000.0,Faro,Portimão,Alvor,Apartment,E,3rd Floor,True,1.0,True,2001.0,123.0,123.0,,,,,3.0,,,,103.0,,,2.0
+289000.0,Faro,Tavira,Conceição e Cabanas de Tavira,Apartment,A,1st Floor,True,1.0,True,,54.0,,,,,,1.0,,,,48.0,,,1.0
+2750000.0,Faro,Vila Real de Santo António,Vila Nova de Cacela,Land,NC,,False,0.0,False,,67250.0,1518.0,,,,,,,,,,,,0.0
+139900.0,Faro,Albufeira,Ferreiras,Transfer of lease,NC,,False,3.0,True,,120.0,,,,,,,,,,,,,2.0
+2500000.0,Faro,Lagos,Luz,Farm,F,,False,3.0,True,1951.0,42960.0,240.0,,,,,6.0,,,,240.0,,,4.0
+18000.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,39.0,,,,,,,,,,,,,0.0
+26500.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,49.0,,,,,,,,,,,,,0.0
+26500.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,51.0,,,,,,,,,,,,,0.0
+26500.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,26.0,,,,,,,,,,,,,0.0
+399950.0,Faro,Albufeira,Ferreiras,House,A,,False,2.0,True,2023.0,140.0,,,,,,2.0,,,,140.0,,,3.0
+595000.0,Faro,Loulé,Quarteira,Apartment,C,2nd Floor,True,1.0,True,1986.0,95.0,,,,,,2.0,,,,95.0,,,2.0
+1990000.0,Faro,Vila do Bispo,Sagres,Store,B-,,False,0.0,False,2023.0,213.0,213.0,,,,,,,,,,,,0.0
+180000.0,Faro,Lagos,Bensafrim e Barão de São João,Land,NC,,False,0.0,False,,17120.0,,,,,,,,,,,,,0.0
+920000.0,Faro,Castro Marim,Altura,Building,D,,False,1.0,True,1961.0,239.0,,,,,,7.0,,,,71.0,,,5.0
+1850000.0,Faro,Albufeira,Albufeira e Olhos de Água,House,A+,,False,3.0,True,2022.0,1018.0,461.0,,,,,4.0,,,,391.0,,,5.0
+95000.0,Faro,Lagoa (Algarve),Estômbar e Parchal,House,NC,,False,0.0,False,1951.0,12.0,12.0,,,,,1.0,,,,12.0,,,1.0
+420000.0,Faro,Portimão,Mexilhoeira Grande,House,C,,False,1.0,True,2007.0,215.0,215.0,,,,,3.0,,,,170.0,,,3.0
+240000.0,Faro,Loulé,Quarteira,Apartment,D,2nd Floor,False,0.0,False,1979.0,81.0,,,,,,2.0,,,,81.0,,,1.0
+1350000.0,Faro,Lagos,Luz,Land,NC,,False,0.0,False,,10600.0,,,,,,,,,,,,,0.0
+9800.0,Faro,Loulé,Quarteira,Other - Residential,NC,6th Floor,True,0.0,False,2000.0,75.0,,,,,,1.0,,,,75.0,,,1.0
+117000.0,Faro,Portimão,Portimão,Store,C,Basement Level,False,0.0,False,1994.0,4960.0,137.0,,,,,,,,,137.0,,,1.0
+12000.0,Faro,Albufeira,Albufeira e Olhos de Água,Other - Residential,NC,2nd Floor,True,0.0,False,1990.0,28.0,,,,,,0.0,,,,27.0,,,1.0
+18000.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,31.0,,,,,,,,,,,,,0.0
+18000.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,38.0,,,,,,,,,,,,,0.0
+18000.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,39.0,,,,,,,,,,,,,0.0
+18000.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,30.0,,,,,,,,,,,,,0.0
+26500.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,49.0,,,,,,,,,,,,,0.0
+18000.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,39.0,,,,,,,,,,,,,0.0
+18000.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,39.0,,,,,,,,,,,,,0.0
+18000.0,Faro,Albufeira,Albufeira e Olhos de Água,Garage,NC,,False,0.0,False,,43.0,,,,,,,,,,,,,0.0
+592000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,B,3rd Floor,True,2.0,True,,10560.0,241.0,,,,,2.0,,,,107.0,,,2.0
+299000.0,Faro,Portimão,Portimão,Apartment,C,3rd Floor,True,1.0,True,1997.0,121.0,156.0,,,,,3.0,,,,121.0,,,2.0
+800000.0,Faro,Lagoa (Algarve),Lagoa e Carvoeiro,House,E,,False,0.0,False,1951.0,1161.0,75.0,,,,,3.0,,,,75.0,,,0.0
+2850000.0,Faro,Loulé,Quarteira,House,A,,False,3.0,True,,805.0,,,,,,4.0,,,,382.0,,,4.0
+6000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,2nd Floor,False,2.0,True,1990.0,28.0,,,,,,0.0,,,,28.0,,,1.0
+125000.0,Faro,Silves,São Bartolomeu de Messines,Farm,NC,,False,2.0,True,1951.0,61670.0,,,,,,,,,,880.0,,,0.0
+375000.0,Faro,Loulé,Quarteira,Apartment,F,Above 10th Floor,True,1.0,True,1998.0,70.0,97.0,,,,,2.0,,,,70.0,,,2.0
+485000.0,Faro,Faro,Conceição e Estoi,House,E,,False,3.0,True,1948.0,9880.0,,,,,,2.0,,,,161.0,,,2.0
+310000.0,Faro,Albufeira,Albufeira e Olhos de Água,House,D,,False,0.0,False,1995.0,154.0,154.0,,,,,3.0,,,,132.0,,,2.0
+279000.0,Faro,Tavira,Conceição e Cabanas de Tavira,Apartment,A,Ground Floor,False,1.0,True,,58.0,,,,,,1.0,,,,51.0,,,1.0
+399000.0,Faro,Tavira,Conceição e Cabanas de Tavira,Apartment,A,Ground Floor,True,2.0,True,,83.0,,,,,,2.0,,,,74.0,,,2.0
+18000.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,40.0,,,,,,,,,,,,,0.0
+18000.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,39.0,,,,,,,,,,,,,0.0
+18000.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,39.0,,,,,,,,,,,,,0.0
+18000.0,Faro,Albufeira,Albufeira e Olhos de Água,Storage,NC,,False,0.0,False,,40.0,,,,,,,,,,,,,0.0
+9000.0,Faro,Albufeira,Albufeira e Olhos de Água,Garage,NC,,False,0.0,False,,14.0,,,,,,,,,,,,,0.0
+419000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,A,Ground Floor,True,1.0,True,,10560.0,117.0,,,,,2.0,,,,89.0,,,2.0
+436000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,B,2nd Floor,True,1.0,True,,10560.0,112.0,,,,,2.0,,,,90.0,,,2.0
+735000.0,Faro,Lagoa (Algarve),Estômbar e Parchal,House,NC,,False,2.0,True,,441.0,,,,,,4.0,,,,224.0,,,3.0
+180000.0,Faro,Lagoa (Algarve),Estômbar e Parchal,House,F,Ground Floor,False,0.0,False,1997.0,91.0,,,,,,3.0,,,,73.0,,,1.0
+190000.0,Faro,Faro,Faro (Sé e São Pedro),House,NC,,False,0.0,False,1950.0,58.0,,,,,,3.0,,,,58.0,,,1.0
+228000.0,Faro,Silves,Armação de Pêra,Apartment,C,1st Floor,True,0.0,False,1986.0,42.0,,,,,,1.0,,,,42.0,,,1.0
+375000.0,Faro,Tavira,Conceição e Cabanas de Tavira,Apartment,A,2nd Floor,True,1.0,True,,67.0,,,,,,0.0,,,,41.0,,,1.0
+32000.0,Faro,Silves,São Bartolomeu de Messines,Land,NC,,True,2.0,True,,34280.0,34280.0,,,,,,,,,34280.0,,,0.0
+510000.0,Faro,Portimão,Portimão,Apartment,A,1st Floor,True,1.0,True,2022.0,134.0,134.0,,,,,2.0,,,,100.0,,,2.0
+270000.0,Faro,Portimão,Portimão,Apartment,C,6th Floor,True,1.0,True,2004.0,3862.0,159.0,,,,,3.0,,,,123.0,,,2.0
+189000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,D,1st Floor,False,1.0,True,1992.0,63.0,6.0,,,,,1.0,,,,57.0,,,1.0
+2400.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,3rd Floor,True,0.0,False,1995.0,28.0,,,,,,0.0,,,,28.0,,,1.0
+295900.0,Faro,Vila Real de Santo António,Monte Gordo,House,D,,False,1.0,True,2005.0,115.0,143.0,,,,,2.0,,,,81.0,,,3.0
+137000.0,Faro,Portimão,Portimão,Apartment,C,9th Floor,True,0.0,False,1982.0,789.0,43.0,,,,,1.0,,,,43.0,,,1.0
+14950.0,Faro,Vila do Bispo,Vila do Bispo e Raposeira,Land,NC,,False,0.0,False,,4200.0,,,,,,,,,,,,,0.0
+187500.0,Faro,Loulé,Quarteira,Apartment,D,2nd Floor,True,1.0,True,2003.0,39.0,55.0,,,,,0.0,,,,39.0,,,1.0
+850000.0,Faro,Loulé,Quarteira,Apartment,C,7th Floor,True,1.0,True,1991.0,6000.0,112.0,,,,,2.0,,,,82.0,,,2.0
+1100000.0,Faro,Lagoa (Algarve),Ferragudo,House,B,,False,1.0,True,1950.0,236.0,,,,,,4.0,,,,236.0,,,3.0
+280000.0,Faro,Portimão,Alvor,Apartment,C,Ground Floor,False,1.0,True,1994.0,846.0,109.0,,,,,2.0,,,,86.0,,,2.0
+210000.0,Faro,Portimão,Portimão,Apartment,C,3rd Floor,False,0.0,False,2004.0,89.0,89.0,,,,,3.0,,,,83.0,,,2.0
+950000.0,Faro,Silves,Silves,House,A,,False,2.0,True,1992.0,86160.0,,,,,,6.0,,,,292.0,,,5.0
+278000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,B,1st Floor,True,1.0,True,,79.0,49.0,,,,,1.0,,,,49.0,,,1.0
+139000.0,Faro,Portimão,Alvor,Apartment,C,1st Floor,True,0.0,False,1993.0,14140.0,41.0,,,,,0.0,,,,36.0,,,1.0
+375000.0,Faro,Loulé,Boliqueime,House,C,,False,3.0,True,2007.0,234.0,234.0,,,,,3.0,,,,139.0,,,2.0
+1700000.0,Faro,Loulé,Almancil,Land,NC,,False,0.0,False,,7000.0,,,,,,,,,,,,,0.0
+595000.0,Faro,Tavira,Conceição e Cabanas de Tavira,Apartment,A,2nd Floor,True,2.0,True,,140.0,,,,,,1.0,,,,57.0,,,1.0
+298000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,C,5th Floor,True,1.0,True,2011.0,72.0,155.0,,,,,1.0,,,,155.0,,,1.0
+499500.0,Faro,Albufeira,Albufeira e Olhos de Água,House,C,,False,2.0,True,2011.0,130.0,,,,,,2.0,,,,130.0,,,2.0
+49000.0,Faro,Silves,São Bartolomeu de Messines,Land,NC,,False,2.0,True,,45160.0,45160.0,,,,,,,,,45160.0,,,0.0
+46000.0,Faro,Silves,São Bartolomeu de Messines,Land,NC,,False,2.0,True,,76880.0,76880.0,,,,,,,,,76880.0,,,0.0
+96800.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,C,5th Floor,True,0.0,False,2003.0,31.0,,,,,,0.0,,,,31.0,,,1.0
+355000.0,Faro,Olhão,Olhão,House,D,Ground Floor,False,0.0,False,1997.0,47.0,58.0,,,,,3.0,,,,47.0,,,2.0
+362500.0,Faro,Faro,Faro (Sé e São Pedro),Duplex,D,2nd Floor,False,2.0,True,1998.0,418.0,130.0,,,,,3.0,,,,130.0,,,2.0
+695000.0,Faro,Lagos,São Gonçalo de Lagos,Apartment,A,Ground Floor,True,1.0,True,2022.0,124.0,149.0,,,,,2.0,,,,101.0,,,2.0
+850000.0,Faro,Lagos,São Gonçalo de Lagos,Apartment,A,2nd Floor,True,2.0,True,2021.0,150.0,,,,,,3.0,,,,210.0,,,2.0
+550000.0,Faro,Faro,Montenegro,House,D,,False,2.0,True,1990.0,400.0,,,,,,3.0,,,,240.0,,,4.0
+235000.0,Faro,Portimão,Portimão,Apartment,D,2nd Floor,False,2.0,True,2005.0,84.0,130.0,,,,,2.0,,,,84.0,,,1.0
+900000.0,Faro,Silves,Alcantarilha e Pêra,House,B,,True,3.0,True,,17455.0,300.0,,,,,5.0,,,,251.0,,,5.0
+120000.0,Faro,Silves,Algoz e Tunes,Land,NC,,False,0.0,False,,405.0,,,,,,,,,,,,,
+195000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,C,1st Floor,True,1.0,True,2009.0,78.0,,,,,,1.0,,,,55.0,,,1.0
+435000.0,Faro,Faro,Faro (Sé e São Pedro),House,E,1st Floor,False,0.0,False,1995.0,124.0,195.0,,,,,4.0,,,,180.0,,,3.0
+12500000.0,Faro,Loulé,Almancil,House,A,,True,3.0,True,,1897.0,,,,,,5.0,,,,637.0,,,6.0
+435000.0,Faro,Lagoa (Algarve),Estômbar e Parchal,House,B,Ground Floor,False,1.0,True,2004.0,144.0,158.0,,,,,3.0,,,,158.0,,,3.0
+475000.0,Faro,Portimão,Portimão,Store,C,Ground Floor,False,0.0,False,1951.0,340.0,340.0,,,,,0.0,,,,340.0,,,3.0
+190000.0,Faro,Portimão,Portimão,Apartment,C,4th Floor,True,0.0,False,1999.0,1340.0,77.0,,,,,1.0,,,,77.0,,,1.0
+4000000.0,Faro,Lagoa (Algarve),Ferragudo,House,F,,False,0.0,False,1951.0,2240.0,,,,,,5.0,,,,85.0,,,2.0
+269000.0,Faro,Portimão,Portimão,House,D,,False,0.0,False,1992.0,77.0,,,,,,3.0,,,,91.0,,,2.0
+195000.0,Faro,Tavira,Conceição e Cabanas de Tavira,Apartment,C,Ground Floor,False,1.0,True,2008.0,116.0,116.0,,,,,1.0,,,,88.0,,,1.0
+90000.0,Faro,Silves,Algoz e Tunes,Land,NC,,False,0.0,False,,270.0,,,,,,,,,,,,,
+94990.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,C,3rd Floor,True,1.0,True,2003.0,31.0,,,,,,0.0,,,,31.0,,,1.0
+369900.0,Faro,Olhão,Olhão,Apartment,B-,4th Floor,False,0.0,False,1979.0,93.0,,,,,,3.0,,,,93.0,,,2.0
+280000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,B,Ground Floor,True,1.0,True,,87.0,51.0,,,,,1.0,,,,51.0,,,1.0
+260000.0,Faro,Portimão,Portimão,Apartment,D,5th Floor,True,1.0,True,1993.0,137.0,137.0,,,,,3.0,,,,107.0,,,2.0
+199000.0,Faro,Loulé,Quarteira,Apartment,E,Ground Floor,False,0.0,False,1986.0,674.0,70.0,,,,,2.0,,,,92.0,,,1.0
+490000.0,Faro,Albufeira,Albufeira e Olhos de Água,Store,C,,False,3.0,True,2004.0,87.0,,,,,,,,,,87.0,,,3.0
+22000.0,Faro,Silves,São Bartolomeu de Messines,Land,NC,,False,3.0,True,,25760.0,25760.0,,,,,,,,,,,,0.0
+650000.0,Faro,Portimão,Portimão,House,NC,,False,2.0,True,,269.0,,,,,,3.0,,,,220.0,,,3.0
+375000.0,Faro,Portimão,Alvor,House,B-,,False,2.0,True,2007.0,60.0,,,,,,3.0,,,,136.0,,,3.0
+42500.0,Faro,Faro,Conceição e Estoi,Land,NC,,False,0.0,False,,5480.0,,,,,,,,,,,,,0.0
+32000.0,Faro,Silves,São Bartolomeu de Messines,Land,NC,,False,3.0,True,,37040.0,37040.0,,,,,,,,,,,,0.0
+250000.0,Faro,Faro,Faro (Sé e São Pedro),Apartment,C,Ground Floor,False,0.0,False,1970.0,75.0,100.0,,,,,2.0,,,,63.0,,,2.0
+60000.0,Faro,Vila do Bispo,Vila do Bispo e Raposeira,Land,NC,,False,0.0,False,,9500.0,,,,,,,,,,,,,0.0
+220000.0,Faro,Castro Marim,Altura,Apartment,D,1st Floor,False,0.0,False,1961.0,239.0,57.0,,,,,2.0,,,,49.0,,,1.0
+309000.0,Faro,Olhão,Olhão,House,NC,Ground Floor,False,0.0,False,1991.0,130.0,,,,,,2.0,,,,130.0,,,2.0
+598000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,B,3rd Floor,True,2.0,True,,243.0,108.0,,,,,2.0,,,,108.0,,,2.0
+34000.0,Faro,São Brás de Alportel,São Brás de Alportel,Land,NC,,False,0.0,False,,3260.0,,,,,,,,,,,,,0.0
+175000.0,Faro,Portimão,Portimão,Apartment,C,5th Floor,True,0.0,False,1983.0,70.0,,,,,,2.0,,,,70.0,,,1.0
+320000.0,Faro,Lagoa (Algarve),Estômbar e Parchal,House,F,,False,0.0,False,2002.0,81.0,,,,,,2.0,,,,81.0,,,2.0
+335000.0,Faro,Portimão,Portimão,Apartment,C,Above 10th Floor,True,1.0,True,1994.0,80.0,80.0,,,,,1.0,,,,63.0,,,1.0
+210000.0,Faro,Portimão,Portimão,Apartment,C,6th Floor,True,0.0,False,2005.0,1110.0,49.0,,,,,1.0,,,,39.0,,,1.0
+980000.0,Faro,Silves,Armação de Pêra,House,B,,True,3.0,True,2013.0,708.0,404.0,,,,,4.0,,,,258.0,,,5.0
+220000.0,Faro,Tavira,Tavira (Santa Maria e Santiago),Store,D,Ground Floor,True,1.0,True,2006.0,89.0,113.0,,,,,,,,,77.0,,,0.0
+450000.0,Faro,Tavira,Santa Catarina Fonte Bispo,House,NC,Ground Floor,False,2.0,True,2023.0,215.0,215.0,,,,,4.0,,,,125.0,,,4.0
+48000.0,Faro,Olhão,Pechão,Land,NC,,False,0.0,False,,6280.0,6280.0,,,,,,,,,,,,0.0
+2500.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,B-,1st Floor,True,1.0,True,1985.0,28.0,,,,,,1.0,,,,28.0,,,1.0
+2000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,B-,1st Floor,True,1.0,True,1985.0,27.0,,,,,,0.0,,,,27.0,,,1.0
+2500.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,B-,2nd Floor,True,1.0,True,1985.0,27.0,,,,,,0.0,,,,27.0,,,1.0
+220000.0,Faro,Castro Marim,Castro Marim,House,C,,False,3.0,True,1936.0,4070.0,78.0,,,,,2.0,,,,78.0,,,1.0
+14250.0,Faro,Albufeira,Albufeira e Olhos de Água,Other - Residential,NC,Ground Floor,False,3.0,True,1990.0,100.0,,,,,,2.0,,,,94.0,,,2.0
+7800.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,3rd Floor,True,3.0,True,1990.0,28.0,,,,,,0.0,,,,28.0,,,1.0
+7800.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,3rd Floor,True,3.0,True,1990.0,28.0,,,,,,0.0,,,,28.0,,,1.0
+385000.0,Faro,Portimão,Portimão,Apartment,A,2nd Floor,True,2.0,True,,100.0,187.0,,,,,2.0,,,,100.0,,,2.0
+750000.0,Faro,Aljezur,Bordeira,Land,NC,,False,0.0,False,,295500.0,,,,,,,,,,,,,0.0
+1100000.0,Faro,Olhão,Pechão,House,NC,,False,3.0,True,1951.0,123920.0,510.0,,,,,4.0,,,,510.0,,,1.0
+595000.0,Faro,Lagoa (Algarve),Ferragudo,House,F,,False,0.0,False,1950.0,101.0,,,,,,2.0,,,,101.0,,,1.0
+215000.0,Faro,Loulé,Quarteira,Apartment,C,5th Floor,True,0.0,False,1978.0,748.0,50.0,,,,,0.0,,,,40.0,,,1.0
+150000.0,Faro,Vila Real de Santo António,Monte Gordo,Apartment,C,Ground Floor,True,0.0,False,2009.0,41.0,41.0,,,,,1.0,,,,35.0,,,1.0
+450000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,C,3rd Floor,True,1.0,True,2002.0,161.0,,,,,,3.0,,,,137.0,,,2.0
+210000.0,Faro,Silves,Armação de Pêra,Apartment,E,9th Floor,True,1.0,True,1990.0,65.0,,,,,,1.0,,,,65.0,,,1.0
+2000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,B-,1st Floor,True,1.0,True,1985.0,27.0,,,,,,0.0,,,,27.0,,,1.0
+165000.0,Faro,Olhão,Olhão,Store,NC,Ground Floor,False,0.0,False,1984.0,80.0,,,,,,,,,,80.0,,,1.0
+5000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,B-,1st Floor,True,1.0,True,1985.0,27.0,,,,,,0.0,,,,27.0,,,1.0
+284000.0,Faro,Vila Real de Santo António,Monte Gordo,Apartment,E,5th Floor,True,0.0,False,1988.0,313.0,105.0,,,,,3.0,,,,92.0,,,2.0
+7800.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,3rd Floor,True,3.0,True,1990.0,28.0,,,,,,0.0,,,,28.0,,,1.0
+4850.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,3rd Floor,True,3.0,True,1990.0,28.0,,,,,,0.0,,,,28.0,,,1.0
+4850.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,3rd Floor,True,3.0,True,1990.0,28.0,,,,,,0.0,,,,28.0,,,1.0
+206500.0,Faro,Vila Real de Santo António,Monte Gordo,Apartment,A,1st Floor,True,0.0,False,2022.0,48.0,,,,,,1.0,,,,48.0,,,1.0
+170000.0,Faro,Portimão,Portimão,House,NC,,False,0.0,False,1951.0,77.0,50.0,,,,,1.0,,,,49.0,,,1.0
+399500.0,Faro,Tavira,Conceição e Cabanas de Tavira,House,E,,False,3.0,True,1992.0,19160.0,138.0,,,,,2.0,,,,120.0,,,2.0
+850000.0,Faro,Loulé,Almancil,House,E,,False,0.0,False,1950.0,4835.0,,,,,,5.0,,,,117.0,,,0.0
+70000.0,Faro,Lagos,Bensafrim e Barão de São João,Land,NC,,False,0.0,False,1984.0,4760.0,,,,,,,,,,,,,0.0
+310000.0,Faro,Lagoa (Algarve),Ferragudo,Apartment,C,1st Floor,False,1.0,True,2011.0,82.0,,,,,,2.0,,,,75.0,,,1.0
+310000.0,Faro,Portimão,Portimão,Store,B-,Basement Level,False,0.0,False,1994.0,330.0,,,,,,,,,,310.0,,,0.0
+289000.0,Faro,Lagoa (Algarve),Estômbar e Parchal,Duplex,C,Ground Floor,False,0.0,False,1994.0,609.0,,,,,,3.0,,,,223.0,,,2.0
+230000.0,Faro,Silves,Silves,House,E,,False,0.0,False,1951.0,9960.0,,,,,,3.0,,,,71.0,,,0.0
+595000.0,Faro,Silves,Armação de Pêra,Apartment,D,Above 10th Floor,True,0.0,False,1987.0,202.0,202.0,,,,,3.0,,,,129.0,,,2.0
+450000.0,Faro,Loulé,Almancil,Land,NC,,False,0.0,False,,4496.0,,,,,,,,,,,,,0.0
+250000.0,Faro,Portimão,Alvor,Apartment,C,2nd Floor,True,0.0,False,2002.0,416.0,82.0,,,,,2.0,,,,78.0,,,1.0
+280000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,C,1st Floor,True,1.0,True,2009.0,74.0,109.0,,,,,1.0,,,,74.0,,,1.0
+385000.0,Faro,Portimão,Portimão,Apartment,A,Ground Floor,True,2.0,True,,100.0,187.0,,,,,2.0,,,,100.0,,,2.0
+375000.0,Faro,Portimão,Portimão,Apartment,A,1st Floor,True,2.0,True,,100.0,131.0,,,,,2.0,,,,100.0,,,2.0
+2500.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,B-,1st Floor,True,1.0,True,1985.0,27.0,,,,,,0.0,,,,27.0,,,1.0
+190000.0,Faro,Tavira,Conceição e Cabanas de Tavira,Apartment,E,Top Floor,False,0.0,False,1995.0,117.0,117.0,,,,,2.0,,,,102.0,,,1.0
+350000.0,Faro,Faro,Faro (Sé e São Pedro),Apartment,E,1st Floor,False,0.0,False,1958.0,138.0,,,,,,3.0,,,,116.0,,,4.0
+255000.0,Faro,Portimão,Portimão,House,F,Ground Floor,False,1.0,True,1974.0,89.0,89.0,,,,,3.0,,,,74.0,,,1.0
+950000.0,Faro,Loulé,Quarteira,Apartment,C,3rd Floor,True,2.0,True,1997.0,224.0,224.0,,,,,4.0,,,,174.0,,,4.0
+89000.0,Faro,Loulé,Alte,House,NC,,False,0.0,False,1951.0,111.0,,,,,,2.0,,,,58.0,,,0.0
+750000.0,Faro,Faro,Montenegro,House,D,,False,3.0,True,2001.0,429.0,374.0,,,,,4.0,,,,158.0,,,0.0
+2500.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,B-,1st Floor,True,1.0,True,1985.0,27.0,,,,,,0.0,,,,27.0,,,1.0
+2500.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,B-,1st Floor,True,1.0,True,1985.0,27.0,,,,,,0.0,,,,27.0,,,1.0
+2500.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,B-,1st Floor,True,1.0,True,1985.0,27.0,,,,,,0.0,,,,27.0,,,1.0
+2500.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,B-,2nd Floor,True,1.0,True,1985.0,27.0,,,,,,0.0,,,,27.0,,,1.0
+370000.0,Faro,Tavira,Santa Catarina Fonte Bispo,Farm,NC,,False,0.0,False,,14487.0,,,,,,,,,,,,,0.0
+250000.0,Faro,Loulé,Quarteira,Office,B,,True,0.0,False,1988.0,74.0,64.0,,,,,,,,,,,,1.0
+50000.0,Faro,Faro,Santa Bárbara de Nexe,Land,NC,,False,0.0,False,,4220.0,4220.0,,,,,,,,,4220.0,,,0.0
+6500.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,B-,1st Floor,True,1.0,True,1985.0,27.0,,,,,,0.0,,,,27.0,,,1.0
+2000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,B-,1st Floor,True,1.0,True,1985.0,27.0,,,,,,0.0,,,,27.0,,,1.0
+120000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,C,Basement Level,True,0.0,False,1987.0,61.0,,,,,,0.0,,,,32.0,,,1.0
+425000.0,Faro,Tavira,Tavira (Santa Maria e Santiago),Apartment,A,1st Floor,True,2.0,True,2022.0,126.0,,,,,,2.0,,,,112.0,,,2.0
+20000.0,Faro,Loulé,Boliqueime,Land,NC,,False,0.0,False,,8000.0,,,,,,,,,,,,,0.0
+595000.0,Faro,Aljezur,Bordeira,Land,NC,,False,0.0,False,1957.0,156000.0,,,,,,,,,,,,,0.0
+1890000.0,Faro,Lagoa (Algarve),Lagoa e Carvoeiro,House,A+,,False,2.0,True,2023.0,1562.0,,,,,,3.0,,,,156.0,,,4.0
+2000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,B-,1st Floor,True,1.0,True,1985.0,27.0,,,,,,0.0,,,,27.0,,,1.0
+442000.0,Faro,Silves,Algoz e Tunes,House,C,,False,2.0,True,2007.0,351.0,165.0,,,,,3.0,,,,165.0,,,3.0
+1090000.0,Faro,Portimão,Portimão,House,F,,False,0.0,False,1985.0,6036.0,,,,,,6.0,,,,234.0,,,5.0
+120000.0,Faro,Olhão,Moncarapacho e Fuseta,House,NC,Ground Floor,False,0.0,False,1951.0,22.0,,,,,,1.0,,,,22.0,,,1.0
+220000.0,Faro,Castro Marim,Castro Marim,Land,NC,,False,1.0,True,,1960.0,,,,,,,,,,,,,0.0
+1450000.0,Faro,Loulé,São Sebastião,Building,B-,,False,0.0,False,1998.0,62.0,,,,,,,,,,171.0,,,0.0
+750000.0,Faro,Olhão,Olhão,Warehouse,B,,False,0.0,False,1988.0,1960.0,1678.0,,,,,,,,,282.0,,,4.0
+390000.0,Faro,Portimão,Portimão,Apartment,A,1st Floor,True,2.0,True,,1348.0,172.0,,,,,3.0,,,,135.0,,,3.0
+770000.0,Faro,Portimão,Alvor,House,A,Duplex,False,1.0,True,,1430.0,,,,,,3.0,,,,308.0,,,4.0
+199000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,D,1st Floor,True,1.0,True,1993.0,64.0,76.0,,,,,1.0,,,,76.0,,,1.0
+995000.0,Faro,Tavira,Tavira (Santa Maria e Santiago),House,D,,False,3.0,True,1996.0,7400.0,110.0,,,,,3.0,,,,99.0,,,3.0
+19000.0,Faro,Portimão,Portimão,Storage,NC,Ground Floor,False,0.0,False,1995.0,210.0,210.0,,,,,0.0,,,,15.0,,,0.0
+2750.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,2nd Floor,True,3.0,True,1992.0,30.0,,,,,,0.0,,,,30.0,,,1.0
+190000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,C,,False,0.0,False,2003.0,67.0,,,,,,1.0,,,,67.0,,,1.0
+60000.0,Faro,Loulé,Boliqueime,Land,NC,,False,0.0,False,2007.0,3750.0,,,,,,0.0,,,,3750.0,,,0.0
+145000.0,Faro,Lagoa (Algarve),Estômbar e Parchal,Store,C,,False,0.0,False,,164.0,,,,,,0.0,,,,,,,0.0
+128000.0,Faro,Lagoa (Algarve),Estômbar e Parchal,Store,C,,False,0.0,False,,127.0,,,,,,0.0,,,,,,,
+100000.0,Faro,Faro,Conceição e Estoi,Land,NC,,False,0.0,False,,15260.0,,,,,,,,,,,,,0.0
+23000.0,Faro,Loulé,"Querença, Tôr e Benafim",Land,NC,,False,0.0,False,,4480.0,,,,,,,,,,,,,0.0
+38000.0,Faro,Silves,Algoz e Tunes,Land,NC,,False,0.0,False,,8840.0,,,,,,,,,,,,,0.0
+220000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,C,1st Floor,False,1.0,True,2008.0,58.0,,,,,,1.0,,,,55.0,,,1.0
+190000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,B-,1st Floor,True,1.0,True,2006.0,85.0,18.0,,,,,1.0,,,,67.0,,,1.0
+350000.0,Faro,Loulé,Quarteira,Apartment,E,6th Floor,True,1.0,True,1987.0,128.0,128.0,,,,,2.0,,,,60.0,,,2.0
+400000.0,Faro,Faro,Conceição e Estoi,Land,NC,,False,0.0,False,,26000.0,,,,,,,,,,,,,0.0
+100000.0,Faro,Lagoa (Algarve),Lagoa e Carvoeiro,Apartment,NC,4th Floor,False,0.0,False,1997.0,61.0,61.0,,,,,1.0,,,,61.0,,,1.0
+315000.0,Faro,Portimão,Alvor,Apartment,D,2nd Floor,True,1.0,True,2007.0,156.0,156.0,,,,,3.0,,,,116.0,,,2.0
+350000.0,Faro,Faro,Conceição e Estoi,Land,NC,,False,0.0,False,,16800.0,,,,,,,,,,,,,0.0
+485000.0,Faro,Vila do Bispo,Budens,House,NC,,False,0.0,False,1952.0,84.0,143.0,,,,,2.0,,,,84.0,,,2.0
+670000.0,Faro,Portimão,Alvor,House,A,Duplex,False,1.0,True,,1430.0,,,,,,3.0,,,,250.0,,,3.0
+650000.0,Faro,Tavira,Tavira (Santa Maria e Santiago),House,B,,False,2.0,True,2009.0,229.0,478.0,,,,,5.0,,,,229.0,,,3.0
+25000.0,Faro,Silves,São Bartolomeu de Messines,Garage,NC,,False,0.0,False,1997.0,19.0,,,,,,0.0,,,,19.0,,,0.0
+45000.0,Faro,Castro Marim,Odeleite,House,NC,,False,0.0,False,1977.0,123.0,95.0,,,,,2.0,,,,95.0,,,0.0
+6000.0,Faro,Loulé,Quarteira,Apartment,NC,7th Floor,True,0.0,False,2000.0,50.0,50.0,,,,,1.0,,,,50.0,,,1.0
+100000.0,Faro,Castro Marim,Odeleite,Land,NC,,False,0.0,False,1987.0,70000.0,,,,,,0.0,,,,,,,0.0
+60000.0,Faro,Faro,Santa Bárbara de Nexe,Land,NC,,False,0.0,False,,14400.0,,,,,,0.0,,,,,,,0.0
+700000.0,Faro,Lagoa (Algarve),Estômbar e Parchal,Warehouse,NC,,True,0.0,False,,983.0,526.0,,,,,0.0,,,,,,,0.0
+7000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,1st Floor,True,3.0,True,1985.0,30.0,,,,,,0.0,,,,30.0,,,1.0
+345000.0,Faro,Portimão,Portimão,Apartment,A,2nd Floor,True,1.0,True,,2936.0,122.0,,,,,2.0,,,,100.0,,,2.0
+1250000.0,Faro,Loulé,São Clemente,Building,D,,False,3.0,True,1951.0,357.0,,,,,,4.0,,,,669.0,,,3.0
+165000.0,Faro,Lagoa (Algarve),Estômbar e Parchal,Investment,C,Ground Floor,False,0.0,False,2010.0,173.0,156.0,,,,,,,,,156.0,,,3.0
+9000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,1st Floor,True,0.0,False,1990.0,36.0,,,,,,0.0,,,,36.0,,,1.0
+20000.0,Faro,Portimão,Portimão,Garage,NC,Basement Level,False,0.0,False,,13.0,,,,,,,,,,13.0,,,0.0
+425000.0,Faro,Loulé,Quarteira,Apartment,E,3rd Floor,True,2.0,True,2000.0,3135.0,,,,,,3.0,,,,56.0,,,2.0
+8000.0,Faro,Loulé,Quarteira,Apartment,NC,8th Floor,True,1.0,True,2000.0,50.0,50.0,,,,,1.0,,,,50.0,,,0.0
+13000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,1st Floor,False,0.0,False,1992.0,100.0,70.0,,,,,1.0,,,,70.0,,,1.0
+80000.0,Faro,Faro,Conceição e Estoi,Land,NC,,False,0.0,False,,7960.0,,,,,,,,,,,,,0.0
+37000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,B-,Basement Level,True,1.0,True,1994.0,27.0,,,,,,0.0,,,,27.0,,,0.0
+365000.0,Faro,Portimão,Portimão,Apartment,A,Ground Floor,True,2.0,True,,1348.0,187.0,,,,,2.0,,,,100.0,,,2.0
+365000.0,Faro,Portimão,Portimão,Apartment,A,3rd Floor,True,2.0,True,,1348.0,131.0,,,,,2.0,,,,100.0,,,2.0
+8000.0,Faro,Albufeira,Guia,Apartment,NC,Ground Floor,True,3.0,True,1990.0,30.0,30.0,,,,,0.0,,,,30.0,,,1.0
+670000.0,Faro,Portimão,Alvor,House,A,Duplex,False,1.0,True,,1430.0,,,,,,3.0,,,,247.0,,,3.0
+92000.0,Faro,Portimão,Portimão,Store,C,,False,0.0,False,1987.0,45.0,,,,,,,,,,,,,0.0
+895000.0,Faro,Albufeira,Albufeira e Olhos de Água,House,C,,False,3.0,True,2023.0,670.0,,,,,,4.0,,,,210.0,,,5.0
+1800000.0,Faro,Silves,Algoz e Tunes,Farm,F,Ground Floor,False,3.0,True,1950.0,14000.0,,,,,,5.0,,,,121.0,,,5.0
+31000.0,Faro,Loulé,Boliqueime,Land,NC,,False,0.0,False,,1650.0,,,,,,0.0,,,,,,,
+150000.0,Faro,Lagoa (Algarve),Estômbar e Parchal,Store,C,,False,0.0,False,,176.0,,,,,,0.0,,,,,,,0.0
+25000.0,Faro,Faro,Conceição e Estoi,Land,NC,,False,0.0,False,,2310.0,,,,,,,,,,,,,0.0
+9000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,2nd Floor,True,0.0,False,1990.0,36.0,,,,,,0.0,,,,36.0,,,1.0
+480000.0,Faro,Albufeira,Albufeira e Olhos de Água,House,C,,False,2.0,True,2007.0,120.0,,,,,,3.0,,,,170.0,,,0.0
+3000.0,Faro,Albufeira,Guia,Apartment,NC,Ground Floor,True,3.0,True,1990.0,30.0,30.0,,,,,0.0,,,,30.0,,,1.0
+8000.0,Faro,Albufeira,Guia,Apartment,NC,Ground Floor,True,3.0,True,1990.0,30.0,30.0,,,,,0.0,,,,30.0,,,1.0
+380000.0,Faro,Portimão,Portimão,Apartment,A,2nd Floor,True,2.0,True,,2936.0,131.0,,,,,2.0,,,,100.0,,,2.0
+3000.0,Faro,Albufeira,Guia,Apartment,NC,Ground Floor,True,3.0,True,1990.0,30.0,30.0,,,,,0.0,,,,30.0,,,1.0
+690000.0,Faro,Portimão,Alvor,House,A,Duplex,False,1.0,True,,1430.0,,,,,,3.0,,,,264.0,,,3.0
+450000.0,Faro,Tavira,Tavira (Santa Maria e Santiago),Office,C,,False,0.0,False,2004.0,466.0,,,,,,,,,,,,,0.0
+4500.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,,False,0.0,False,1980.0,55.0,,,,,,1.0,,,,55.0,,,1.0
+25000.0,Faro,Tavira,Luz de Tavira e Santo Estêvão,Land,NC,,False,0.0,False,1998.0,650.0,,,,,,0.0,,,,650.0,,,
+2500.0,Faro,Albufeira,Guia,Apartment,NC,3rd Floor,True,0.0,False,1988.0,0.0,40.0,,,,,1.0,,,,40.0,,,1.0
+160000.0,Faro,Silves,São Marcos da Serra,House,F,,False,0.0,False,1951.0,77120.0,,,,,,2.0,,,,200.0,,,1.0
+130000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,8th Floor,True,0.0,False,2003.0,32.0,,,,,,0.0,,,,32.0,,,1.0
+9000.0,Faro,Alcoutim,Giões,Land,NC,,False,0.0,False,2010.0,3320.0,,,,,,0.0,,,,3320.0,,,0.0
+850000.0,Faro,São Brás de Alportel,São Brás de Alportel,Farm,E,,False,0.0,False,1979.0,5853.0,,,,,,4.0,,,,3006.0,,,1.0
+2500.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,4th Floor,False,,True,1998.0,60.0,,,,,,0.0,,,,60.0,,,
+600000.0,Faro,Faro,Faro (Sé e São Pedro),Apartment,C,4th Floor,True,2.0,True,2002.0,420.0,,,,,,4.0,,,,200.0,,,3.0
+1500.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,4th Floor,True,3.0,True,1990.0,28.0,,,,,,0.0,,,,28.0,,,1.0
+1750000.0,Faro,Loulé,Quarteira,Store,B-,,False,0.0,False,,500.0,,,,,,0.0,,,,,,,
+37500.0,Faro,Alcoutim,Alcoutim e Pereiro,Land,NC,,False,0.0,False,,48280.0,,,,,,0.0,,,,,,,0.0
+2000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,,False,0.0,False,1985.0,30.0,30.0,,,,,0.0,,,,30.0,,,1.0
+1300000.0,Faro,Albufeira,Guia,Land,NC,,False,1.0,True,1986.0,126810.0,,,,,,0.0,,,,126810.0,,,0.0
+85000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,D,4th Floor,True,1.0,True,2003.0,32.0,,,,,,0.0,,,,32.0,,,1.0
+220000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,C,4th Floor,True,1.0,True,2003.0,67.0,,,,,,1.0,,,,67.0,,,1.0
+220000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,C,1st Floor,True,1.0,True,2003.0,92.0,,,,,,1.0,,,,92.0,,,1.0
+9000.0,Faro,Alcoutim,Martim Longo,Land,NC,,False,0.0,False,2010.0,12160.0,,,,,,0.0,,,,12160.0,,,0.0
+850000.0,Faro,São Brás de Alportel,São Brás de Alportel,Building,E,,False,0.0,False,1979.0,5853.0,,,,,,4.0,,,,3006.0,,,1.0
+6500.0,Faro,Loulé,Quarteira,Apartment,NC,1st Floor,True,0.0,False,2000.0,60.0,,,,,,1.0,,,,60.0,,,1.0
+700000.0,Faro,Faro,Conceição e Estoi,Land,NC,,False,2.0,True,2006.0,8070.0,,,,,,0.0,,,,1200.0,,,0.0
+750000.0,Faro,Faro,Faro (Sé e São Pedro),Store,C,,False,0.0,False,,838.0,,,,,,0.0,,,,,,,0.0
+4500.0,Faro,Loulé,Quarteira,Apartment,NC,,False,0.0,False,2000.0,58.0,,,,,,1.0,,,,58.0,,,0.0
+433500.0,Faro,Castro Marim,Castro Marim,House,A,,False,2.0,True,2011.0,1170.0,,,,,,3.0,,,,113.0,,,4.0
+66500.0,Faro,Alcoutim,Alcoutim e Pereiro,Land,NC,,False,0.0,False,2018.0,42480.0,,,,,,0.0,,,,42480.0,,,0.0
+750000.0,Faro,Silves,Armação de Pêra,House,D,,False,3.0,True,1998.0,1213.0,,,,,,7.0,,,,233.0,,,5.0
+18000.0,Faro,Castro Marim,Odeleite,Land,NC,,False,0.0,False,,2920.0,,,,,,0.0,,,,,,,0.0
+3700.0,Faro,Loulé,Quarteira,Apartment,NC,3rd Floor,False,0.0,False,1991.0,33.0,33.0,,,,,1.0,,,,33.0,,,1.0
+300000.0,Faro,Silves,Alcantarilha e Pêra,Land,NC,,False,0.0,False,,54880.0,,,,,,0.0,,,,54880.0,,,0.0
+220000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,C,1st Floor,True,1.0,True,2003.0,92.0,,,,,,1.0,,,,92.0,,,1.0
+50000.0,Faro,Silves,São Bartolomeu de Messines,Land,NC,,False,0.0,False,2013.0,12200.0,,,,,,0.0,,,,12200.0,,,0.0
+49950.0,Faro,Silves,Armação de Pêra,Land,NC,,False,0.0,False,,1710.0,,,,,,0.0,,,,,,,0.0
+3500.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,Ground Floor,False,0.0,False,1996.0,583.0,,,,,,1.0,,,,60.0,,,1.0
+975000.0,Faro,Lagoa (Algarve),Ferragudo,Land,NC,,False,0.0,False,,720.0,,,,,,0.0,,,,0.0,,,0.0
+349000.0,Faro,Silves,Armação de Pêra,Land,NC,,False,0.0,False,1988.0,9985.0,,,,,,0.0,,,,9985.0,,,0.0
+399000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,C,1st Floor,False,2.0,True,2005.0,247.0,247.0,,,,,3.0,,,,204.0,,,3.0
+45000.0,Faro,Monchique,Monchique,Land,NC,,False,0.0,False,1951.0,1360.0,,,,,,0.0,,,,1360.0,,,0.0
+40000.0,Faro,Silves,Alcantarilha e Pêra,Land,NC,,False,0.0,False,,8280.0,,,,,,0.0,,,,8280.0,,,0.0
+190000.0,Faro,Monchique,Monchique,Apartment,B-,1st Floor,True,1.0,True,2010.0,80.0,,,,,,1.0,,,,80.0,,,2.0
+1750000.0,Faro,Albufeira,Ferreiras,Land,NC,,False,0.0,False,2018.0,25000.0,,,,,,,,,,6250.0,,,0.0
+4500.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,,False,0.0,False,1980.0,235000.0,,,,,,1.0,,,,70.0,,,1.0
+70000.0,Faro,Silves,Algoz e Tunes,Land,NC,,False,0.0,False,1989.0,36420.0,,,,,,,,,,36420.0,,,0.0
+74500.0,Faro,Alcoutim,Alcoutim e Pereiro,Land,NC,,False,0.0,False,1990.0,87360.0,,,,,,0.0,,,,87360.0,,,0.0
+720000.0,Faro,Silves,Algoz e Tunes,Land,NC,,False,,True,,13640.0,,,,,,0.0,,,,,,,
+4000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,1st Floor,True,0.0,False,1985.0,30.0,30.0,,,,,1.0,,,,30.0,,,1.0
+2500.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,,False,0.0,False,1990.0,3700.0,,,,,,1.0,,,,72.0,,,1.0
+1200000.0,Faro,Albufeira,Albufeira e Olhos de Água,Land,NC,,False,1.0,True,1937.0,127770.0,,,,,,0.0,,,,100.0,,,0.0
+4500000.0,Faro,Portimão,Alvor,House,A,,False,3.0,True,2016.0,10455.0,472.0,,,,,5.0,,,,472.0,,,6.0
+750000.0,Faro,Loulé,Almancil,Land,NC,,False,0.0,False,,1799.0,,,,,,0.0,,,,1900.0,,,0.0
+1500000.0,Faro,Loulé,Almancil,Land,NC,,False,0.0,False,,0.0,,,,,,0.0,,,,5837.0,,,0.0
+115000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,C,4th Floor,True,1.0,True,2003.0,31.0,,,,,,0.0,,,,31.0,,,1.0
+220000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,1st Floor,True,1.0,True,2003.0,88.0,,,,,,1.0,,,,88.0,,,1.0
+6250.0,Faro,Loulé,Quarteira,Apartment,NC,7th Floor,True,0.0,False,1990.0,0.0,,,,,,1.0,,,,60.0,,,2.0
+175000.0,Faro,Vila do Bispo,Barão de São Miguel,Land,NC,,False,0.0,False,1951.0,48080.0,,,,,,0.0,,,,48080.0,,,0.0
+104500.0,Faro,Loulé,Boliqueime,Land,NC,,False,0.0,False,,6000.0,6000.0,,,,,0.0,,,,,,,0.0
+30000.0,Faro,Loulé,Boliqueime,Land,NC,,False,0.0,False,1981.0,1700.0,,,,,,0.0,,,,1700.0,,,0.0
+30000.0,Faro,Lagos,Bensafrim e Barão de São João,Land,NC,,False,0.0,False,2018.0,4640.0,,,,,,0.0,,,,4640.0,,,0.0
+4900.0,Faro,Albufeira,Guia,Apartment,NC,3rd Floor,True,1.0,True,1988.0,24.0,,,,,,0.0,,,,24.0,,,1.0
+1500.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,4th Floor,False,0.0,False,1990.0,28.0,,,,,,0.0,,,,28.0,,,1.0
+1500000.0,Faro,Faro,Faro (Sé e São Pedro),Land,NC,,False,0.0,False,2018.0,4885.0,,,,,,,,,,5918.0,,,0.0
+10000.0,Faro,Loulé,Quarteira,Apartment,NC,1st Floor,True,0.0,False,1998.0,0.0,,,,,,1.0,,,,47.0,,,1.0
+2500.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,,False,0.0,False,1980.0,235000.0,,,,,,1.0,,,,70.0,,,1.0
+80000.0,Faro,Aljezur,Aljezur,Land,NC,,False,0.0,False,2017.0,976.0,,,,,,,,,,292.0,,,0.0
+2750.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,,False,,True,1992.0,235000.0,,,,,,1.0,,,,70.0,,,1.0
+160000.0,Faro,Lagoa (Algarve),Estômbar e Parchal,Land,NC,,False,0.0,False,2004.0,675.0,200.0,,,,,0.0,,,,140.0,,,0.0
+250000.0,Faro,São Brás de Alportel,São Brás de Alportel,Warehouse,NC,,False,0.0,False,,400.0,,,,,,0.0,,,,,,,0.0
+200000.0,Faro,Silves,Armação de Pêra,Store,D,,False,0.0,False,,168.0,,,,,,0.0,,,,,,,0.0
+2500.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,2nd Floor,True,0.0,False,1989.0,30.0,,,,,,0.0,,,,30.0,,,1.0
+135000.0,Guarda,Seia,Santiago,House,F,,False,0.0,False,2008.0,63.0,225.0,,,,,2.0,,,,63.0,,,
+63000.0,Porto,Paços de Ferreira,Frazão Arreigada,Land,NC,,False,0.0,False,,4100.0,,,,,,,,,,,,,0.0
+185000.0,Guarda,Seia,Pinhanços,House,F,,False,3.0,True,1978.0,2070.0,,,,,,4.0,,,,360.0,,,3.0
+67000.0,Guarda,Seia,Loriga,House,F,,False,0.0,False,1970.0,79.0,126.0,,,,,4.0,,,,79.0,,,2.0
+29500.0,Guarda,Almeida,Vilar Formoso,Apartment,D,Ground Floor,False,1.0,True,1972.0,80.0,,,,,,2.0,,,,61.0,,,1.0
+39999.0,Guarda,Gouveia,Moimenta da Serra e Vinhó,House,NC,,False,0.0,False,1969.0,24.0,,,,,,2.0,,,,24.0,,,1.0
+58000.0,Guarda,Celorico da Beira,Celorico (São Pedro e Santa Maria) e Vila Boa do Mondego,Apartment,C,2nd Floor,False,0.0,False,1980.0,87.0,,,,,,3.0,,,,87.0,,,2.0
+,Guarda,Seia,Pinhanços,House,E,,False,2.0,True,1956.0,146.0,351.0,,,,,2.0,,,,110.0,,,0.0
+29500.0,Guarda,Almeida,Vilar Formoso,Apartment,D,Ground Floor,False,1.0,True,1972.0,66.0,85.0,,,,,2.0,,,,60.0,,,1.0
+30000.0,Guarda,Mêda,Prova e Casteição,Other - Residential,NC,,False,2.0,True,1937.0,206.0,177.0,,,,,,,,,206.0,,,2.0
+244000.0,Guarda,Seia,"Seia, São Romão e Lapa dos Dinheiros",House,A,,False,2.0,True,1986.0,620.0,402.0,,,,,3.0,,,,131.0,,,2.0
+150000.0,Guarda,Guarda,Guarda,Apartment,E,3rd Floor,True,1.0,True,2002.0,126.0,,,,,,3.0,,,,126.0,,,2.0
+350000.0,Faro,Faro,Santa Bárbara de Nexe,House,NC,,False,0.0,False,1950.0,4729.0,,,,,,2.0,,,,71.0,,,
+3000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,4th Floor,True,1.0,True,1988.0,50.0,,,,,,1.0,,,,50.0,,,1.0
+160000.0,Faro,Lagoa (Algarve),Ferragudo,Store,C,,False,0.0,False,,60.0,,,,,,0.0,,,,,,,0.0
+40000.0,Guarda,Trancoso,Freches e Torres,House,NC,,False,0.0,False,1937.0,120.0,55.0,,,,,3.0,,,,27.0,,,1.0
+125000.0,Guarda,Gouveia,Vila Nova de Tazem,House,E,,False,0.0,False,1969.0,430.0,162.0,,,,,3.0,,,,160.0,,,2.0
+129500.0,Guarda,Guarda,Benespera,Farm,F,,False,0.0,False,1985.0,62009.0,227.0,,,,,,,,,227.0,,,0.0
+15000.0,Guarda,Gouveia,Melo e Nabais,Land,NC,,False,0.0,False,,1000.0,,,,,,,,,,,,,0.0
+29000.0,Guarda,Gouveia,Melo e Nabais,Land,NC,,False,0.0,False,,9998.0,,,,,,,,,,,,,0.0
+7500.0,Guarda,Guarda,Cavadoude,House,NC,,False,0.0,False,1937.0,94.0,24.0,,,,,2.0,,,,80.0,,,
+26500.0,Guarda,Mêda,Rabaçal,House,NC,,False,0.0,False,1950.0,190.0,,,,,,3.0,,,,170.0,,,
+220000.0,Porto,Matosinhos,"Perafita, Lavra e Santa Cruz do Bispo",Apartment,E,1st Floor,False,1.0,True,1986.0,159.0,,,,,,2.0,,,,136.0,,,2.0
+595000.0,Lisboa,Lisboa,Misericórdia,Apartment,D,1st Floor,False,0.0,False,1937.0,110.0,,,,,,4.0,,,,82.0,,,2.0
+129000.0,Guarda,Fornos de Algodres,"Juncais, Vila Ruiva e Vila Soeiro do Chão",House,F,,False,0.0,False,2020.0,71.0,116.0,,,,,3.0,,,,84.0,,,2.0
+135000.0,Guarda,Seia,"Seia, São Romão e Lapa dos Dinheiros",Apartment,B-,Ground Floor,True,1.0,True,2009.0,129.0,,,,,,3.0,,,,129.0,,,2.0
+20500.0,Leiria,Ansião,Santiago da Guarda,Land,NC,,False,0.0,False,,816.0,,,,,,,,,,,,,0.0
+15000.0,Guarda,Pinhel,Pinhel,Land,NC,,False,0.0,False,1990.0,462.0,,,,,,0.0,,,,462.0,,,0.0
+4000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,1st Floor,False,0.0,False,1990.0,74.0,,,,,,1.0,,,,65.0,,,1.0
+35000.0,Guarda,Manteigas,São Pedro,Land,NC,,False,0.0,False,,396.0,290.0,,,,,,,,,,,,
+130000.0,Guarda,Seia,Santiago,House,NC,,False,3.0,True,2021.0,600.0,250.0,,,,,3.0,,,,125.0,,,3.0
+210000.0,Faro,Lagoa (Algarve),Ferragudo,Store,C,,False,0.0,False,,91.0,,,,,,0.0,,,,,,,0.0
+115000.0,Faro,Silves,Alcantarilha e Pêra,Land,NC,,False,0.0,False,1992.0,1997.0,,,,,,0.0,,,,620.0,,,0.0
+190000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,B,7th Floor,False,0.0,False,2003.0,67.0,,,,,,1.0,,,,67.0,,,1.0
+5000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,2nd Floor,True,0.0,False,1989.0,40.0,,,,,,0.0,,,,40.0,,,1.0
+2500.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,2nd Floor,True,0.0,False,1989.0,40.0,,,,,,0.0,,,,40.0,,,1.0
+162000.0,Porto,Paços de Ferreira,Frazão Arreigada,Land,NC,,False,0.0,False,,10052.0,,,,,,,,,,,,,0.0
+210600.0,Porto,Paços de Ferreira,Frazão Arreigada,Land,NC,,False,0.0,False,,14152.0,,,,,,,,,,,,,0.0
+110000.0,Guarda,Figueira de Castelo Rodrigo,Escalhão,Farm,NC,,False,0.0,False,1972.0,60000.0,60000.0,,,,,,,,,60000.0,,,
+35000.0,Guarda,Seia,Carragozela e Várzea de Meruge,Land,NC,,False,0.0,False,,740.0,,,,,,,,,,,,,0.0
+150000.0,Guarda,Seia,Carragozela e Várzea de Meruge,House,F,,False,2.0,True,1986.0,714.0,,,,,,3.0,,,,310.0,,,2.0
+550000.0,Viseu,Tondela,Guardão,House,A+,,False,3.0,True,2000.0,1475.0,,,,,,6.0,,,,570.0,,,3.0
+24990.0,Guarda,Gouveia,Melo e Nabais,Land,NC,,False,0.0,False,,1499.0,,,,,,,,,,,,,0.0
+55000.0,Guarda,Guarda,Adão,House,E,,False,0.0,False,1937.0,86.0,,,,,,2.0,,,,86.0,,,
+50000.0,Guarda,Seia,Santa Marinha e São Martinho,House,F,,False,0.0,False,1951.0,125.0,,,,,,3.0,,,,130.0,,,2.0
+3465000.0,Guarda,Aguiar da Beira,Sequeiros e Gradiz,Hotel,B-,,False,0.0,False,2010.0,15498.0,,,,,,,,,,2189.0,,,
+25000.0,Guarda,Seia,Tourais e Lajes,Land,NC,,False,0.0,False,,1492.0,,,,,,,,,,,,,
+55000.0,Guarda,Manteigas,São Pedro,House,F,,False,0.0,False,1951.0,43.0,131.0,,,,,2.0,,,,131.0,,,1.0
+29500.0,Guarda,Almeida,Vilar Formoso,Apartment,D,Ground Floor,False,1.0,True,1972.0,61.0,81.0,,,,,2.0,,,,60.0,,,2.0
+540000.0,Guarda,Guarda,Guarda,House,A,,False,3.0,True,2010.0,980.0,516.0,,,,,5.0,,,,262.0,,,5.0
+26000.0,Guarda,Seia,"Seia, São Romão e Lapa dos Dinheiros",House,NC,,False,0.0,False,1937.0,119.0,119.0,,,,,2.0,,,,50.0,,,
+115000.0,Faro,Olhão,Moncarapacho e Fuseta,Land,NC,,False,0.0,False,1950.0,80000.0,,,,,,0.0,,,,80000.0,,,0.0
+1850000.0,Faro,Loulé,Almancil,Land,NC,,False,0.0,False,2013.0,21280.0,,,,,,0.0,,,,21280.0,,,
+432500.0,Faro,Castro Marim,Castro Marim,House,B-,,False,0.0,False,2011.0,1170.0,,,,,,2.0,,,,101.0,,,3.0
+17000.0,Guarda,Manteigas,Vale de Amoreira,House,NC,,False,0.0,False,1950.0,435.0,82.0,,,,,0.0,,,,82.0,,,1.0
+37000.0,Guarda,Vila Nova de Foz Côa,Vila Nova de Foz Côa,House,F,,False,0.0,False,1970.0,96.0,,,,,,2.0,,,,96.0,,,2.0
+17500.0,Guarda,Celorico da Beira,Celorico (São Pedro e Santa Maria) e Vila Boa do Mondego,House,NC,,False,3.0,True,1950.0,303.0,,,,,,0.0,,,,246.0,,,
+85000.0,Setúbal,Setúbal,Azeitão (São Lourenço e São Simão),Land,NC,,False,0.0,False,,258.0,,,,,,,,,,,,,0.0
+35000.0,Guarda,Manteigas,Santa Maria,Land,NC,,False,0.0,False,,574.0,,,,,,,,,,,,,
+28000.0,Guarda,Seia,"Seia, São Romão e Lapa dos Dinheiros",House,F,,False,0.0,False,1973.0,70.0,210.0,,,,,2.0,,,,70.0,,,1.0
+315000.0,Lisboa,Lisboa,Ajuda,Apartment,D,5th Floor,True,0.0,False,1963.0,68.0,,,,,,2.0,,,,54.0,,,1.0
+210000.0,Faro,Castro Marim,Castro Marim,House,NC,,False,0.0,False,2006.0,100.0,,,,,,1.0,,,,100.0,,,2.0
+199000.0,Faro,Lagoa (Algarve),Porches,Land,NC,,False,0.0,False,1951.0,1820.0,,,,,,0.0,,,,57.0,,,0.0
+129000.0,Faro,Portimão,Mexilhoeira Grande,Land,NC,,False,0.0,False,1951.0,51000.0,,,,,,0.0,,,,51000.0,,,0.0
+790000.0,Faro,Loulé,São Sebastião,Land,NC,,False,0.0,False,1981.0,60.0,,,,,,0.0,,,,112620.0,,,0.0
+1000000.0,Faro,Portimão,Portimão,Store,C,Ground Floor,False,0.0,False,,244.0,244.0,,,,,0.0,,,,,,,
+295000.0,Guarda,Seia,"Seia, São Romão e Lapa dos Dinheiros",House,A,,False,0.0,False,2005.0,220.0,,,,,,4.0,,,,220.0,,,4.0
+55000.0,Guarda,Seia,Vila Cova Ã  Coelheira,House,NC,,False,0.0,False,1951.0,2670.0,136.0,,,,,2.0,,,,45.0,,,1.0
+1200000.0,Guarda,Vila Nova de Foz Côa,Freixo de Numão,Farm,D,,False,0.0,False,,4570.0,,,,,,10.0,,,,,,,8.0
+30000.0,Guarda,Seia,Tourais e Lajes,Land,NC,,False,0.0,False,,1005.0,,,,,,,,,,,,,0.0
+100000.0,Guarda,Gouveia,São Paio,House,F,1st Floor,False,0.0,False,1978.0,240.0,160.0,,,,,4.0,,,,216.0,,,2.0
+8800.0,Faro,Loulé,Quarteira,Apartment,NC,4th Floor,True,0.0,False,2000.0,47.0,,,,,,0.0,,,,47.0,,,1.0
+880000.0,Faro,Vila Real de Santo António,Vila Nova de Cacela,Apartment,A,,False,,True,2019.0,3614.0,206.0,,,,,2.0,,,,161.0,,,3.0
+850000.0,Faro,Vila Real de Santo António,Vila Nova de Cacela,Apartment,A,,False,,True,2019.0,3614.0,197.0,,,,,2.0,,,,154.0,,,3.0
+885000.0,Faro,Vila Real de Santo António,Vila Nova de Cacela,Apartment,A,Ground Floor,False,0.0,False,2019.0,520.0,,,,,,2.0,,,,131.0,,,3.0
+25000.0,Guarda,Guarda,Gonçalo,House,NC,,False,0.0,False,1970.0,140.0,,,,,,6.0,,,,100.0,,,4.0
+450000.0,Guarda,Trancoso,"Torre do Terrenho, Sebadelhe da Serra e Terrenho",Farm,D,,False,0.0,False,2006.0,1169.0,687.0,,,,,10.0,,,,,,,
+44900.0,Guarda,Sabugal,Casteleiro,Land,NC,,False,0.0,False,,6580.0,,,,,,0.0,,,,,,,
+190000.0,Faro,Tavira,Santa Catarina Fonte Bispo,Land,NC,,False,0.0,False,1978.0,14830.0,,,,,,0.0,,,,14830.0,,,0.0
+445000.0,Guarda,Seia,Santa Marinha e São Martinho,House,E,,False,3.0,True,1997.0,1800.0,1136.0,,,,,4.0,,,,1136.0,,,5.0
+1065600.0,Guarda,Aguiar da Beira,Sequeiros e Gradiz,Store,C,,True,0.0,False,2010.0,3000.0,,,,,,,,,,,,,0.0
+8000.0,Guarda,Seia,Torrozelo e Folhadosa,Land,NC,,False,0.0,False,,400.0,,,,,,,,,,,,,
+75000.0,Guarda,Trancoso,Vila Franca das Naves e Feital,Warehouse,NC,,False,0.0,False,,0.0,,,,,,,,,,,,,0.0
+10000.0,Guarda,Fornos de Algodres,Algodres,Land,NC,,False,0.0,False,,4600.0,,,,,,,,,,,,,0.0
+35000.0,Guarda,Trancoso,Vila Franca das Naves e Feital,House,NC,,False,0.0,False,1937.0,100.0,,,,,,4.0,,,,80.0,,,2.0
+750000.0,Faro,Lagoa (Algarve),Ferragudo,House,NC,,False,0.0,False,1950.0,104.0,,,,,,3.0,,,,145.0,,,2.0
+1250.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,4th Floor,True,1.0,True,1995.0,40.0,,,,,,1.0,,,,40.0,,,1.0
+212800.0,Faro,São Brás de Alportel,São Brás de Alportel,Land,NC,,False,0.0,False,,49300.0,,,,,,0.0,,,,49300.0,,,0.0
+128000.0,Faro,São Brás de Alportel,São Brás de Alportel,Land,NC,,False,0.0,False,,4770.0,,,,,,0.0,,,,4770.0,,,
+870000.0,Faro,Vila Real de Santo António,Vila Nova de Cacela,Apartment,A,Ground Floor,False,0.0,False,2019.0,510.0,,,,,,2.0,,,,15406.0,,,3.0
+900000.0,Faro,Vila Real de Santo António,Vila Nova de Cacela,Apartment,A,,False,,True,2019.0,3614.0,200.0,,,,,2.0,,,,161.0,,,3.0
+935000.0,Faro,Vila Real de Santo António,Vila Nova de Cacela,Apartment,A,,False,,True,2019.0,3614.0,201.0,,,,,2.0,,,,157.0,,,3.0
+2500.0,Guarda,Almeida,Junça e Naves,Land,NC,,False,0.0,False,1988.0,1150.0,,,,,,,,,,,,,0.0
+32500.0,Guarda,Sabugal,Casteleiro,Land,NC,,False,0.0,False,,11620.0,,,,,,,,,,,,,
+148000.0,Guarda,Gouveia,Rio Torto e Lagarinhos,House,E,,False,1.0,True,2003.0,148.0,,,,,,2.0,,,,148.0,,,3.0
+1900000.0,Faro,Lagos,São Gonçalo de Lagos,Land,NC,,False,0.0,False,2015.0,19120.0,,,,,,0.0,,,,4800.0,,,0.0
+33000.0,Faro,Olhão,Moncarapacho e Fuseta,Land,NC,,False,0.0,False,,7740.0,,,,,,0.0,,,,7740.0,,,0.0
+98000.0,Guarda,Seia,Sameice e Santa Eulália,House,A,,False,0.0,False,1950.0,180.0,235.0,,,,,4.0,,,,86.0,,,0.0
+14500.0,Guarda,Pinhel,Pínzio,House,NC,,False,0.0,False,1980.0,49.0,49.0,,,,,2.0,,,,49.0,,,1.0
+45000.0,Guarda,Trancoso,Vila Franca das Naves e Feital,Warehouse,NC,,False,0.0,False,,230.0,,,,,,,,,,,,,
+90000.0,Guarda,Seia,Santiago,Apartment,C,Ground Floor,False,1.0,True,2003.0,79.0,,,,,,2.0,,,,93.0,,,1.0
+79000.0,Guarda,Trancoso,Vila Franca das Naves e Feital,House,E,,False,1.0,True,1982.0,150.0,,,,,,3.0,,,,120.0,,,4.0
+20000.0,Guarda,Pinhel,Alverca da Beira/Bouça Cova,House,NC,,False,0.0,False,1949.0,95.0,,,,,,0.0,,,,70.0,,,1.0
+100000.0,Lisboa,Azambuja,Azambuja,Apartment,D,Basement Level,False,0.0,False,1978.0,208.0,,,,,,2.0,,,,78.0,,,1.0
+250000.0,Faro,Lagoa (Algarve),Lagoa e Carvoeiro,Land,NC,,False,0.0,False,1986.0,10040.0,,,,,,0.0,,,,10040.0,,,0.0
+4900.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,1st Floor,False,0.0,False,1990.0,1853.0,80.0,,,,,1.0,,,,79.0,,,1.0
+955000.0,Faro,Vila Real de Santo António,Vila Nova de Cacela,Apartment,A,2nd Floor,False,0.0,False,2019.0,504.0,,,,,,2.0,,,,160.0,,,2.0
+920000.0,Faro,Vila Real de Santo António,Vila Nova de Cacela,Apartment,A,1st Floor,False,0.0,False,2019.0,510.0,,,,,,2.0,,,,162.0,,,0.0
+860000.0,Faro,Vila Real de Santo António,Vila Nova de Cacela,Apartment,A,,False,,True,2019.0,3614.0,195.0,,,,,2.0,,,,156.0,,,3.0
+890000.0,Faro,Vila Real de Santo António,Vila Nova de Cacela,Apartment,A,Ground Floor,False,0.0,False,2019.0,520.0,,,,,,2.0,,,,154.0,,,3.0
+49000.0,Faro,Silves,São Bartolomeu de Messines,Land,NC,,False,0.0,False,,320.0,,,,,,0.0,,,,320.0,,,0.0
+190000.0,Faro,Tavira,Santa Catarina Fonte Bispo,House,NC,,False,0.0,False,1978.0,14830.0,,,,,,1.0,,,,14830.0,,,0.0
+1280000.0,Coimbra,Coimbra,Santa Clara e Castelo Viegas,House,A+,,False,1.0,True,2020.0,350.0,188.0,,,,,3.0,,,,160.0,,,2.0
+135000.0,Guarda,Guarda,Guarda,Apartment,D,3rd Floor,True,0.0,False,1976.0,133.0,,,,,,4.0,,,,133.0,,,2.0
+32500.0,Guarda,Guarda,Guarda,Transfer of lease,B,1st Floor,False,0.0,False,,110.0,,,,,,,,,,,,,2.0
+160000.0,Guarda,Seia,Tourais e Lajes,House,NC,,False,3.0,True,2009.0,4450.0,205.0,,,,,4.0,,,,205.0,,,2.0
+15000.0,Guarda,Trancoso,Vila Franca das Naves e Feital,House,NC,,False,0.0,False,1937.0,100.0,,,,,,2.0,,,,80.0,,,2.0
+35000.0,Guarda,Celorico da Beira,Celorico (São Pedro e Santa Maria) e Vila Boa do Mondego,Farm,NC,,False,0.0,False,,14000.0,,,,,,,,,,,,,
+29500.0,Guarda,Almeida,Vilar Formoso,Apartment,D,1st Floor,False,1.0,True,1972.0,81.0,,,,,,2.0,,,,61.0,,,1.0
+29500.0,Guarda,Almeida,Vilar Formoso,Apartment,D,2nd Floor,False,1.0,True,1972.0,90.0,,,,,,2.0,,,,62.0,,,1.0
+880000.0,Faro,Vila Real de Santo António,Vila Nova de Cacela,Apartment,A,,False,,True,2019.0,3614.0,200.0,,,,,2.0,,,,161.0,,,3.0
+870000.0,Faro,Vila Real de Santo António,Vila Nova de Cacela,Apartment,A,,False,,True,2019.0,3614.0,203.0,,,,,2.0,,,,158.0,,,3.0
+900000.0,Faro,Vila Real de Santo António,Vila Nova de Cacela,Apartment,A,,False,,True,2019.0,3614.0,206.0,,,,,2.0,,,,161.0,,,3.0
+860000.0,Faro,Vila Real de Santo António,Vila Nova de Cacela,Apartment,A,,False,,True,2019.0,3614.0,197.0,,,,,2.0,,,,154.0,,,3.0
+9500.0,Faro,Loulé,Quarteira,Apartment,NC,7th Floor,True,0.0,False,2000.0,40.0,40.0,,,,,0.0,,,,40.0,,,1.0
+400000.0,Faro,Silves,Silves,House,NC,,False,1.0,True,2023.0,345.0,86.0,,,,,2.0,,,,86.0,,,3.0
+47000.0,Faro,Castro Marim,Azinhal,Land,NC,,False,0.0,False,,30360.0,,,,,,0.0,,,,30360.0,,,0.0
+800000.0,Faro,Portimão,Portimão,Land,NC,,False,0.0,False,,7833.0,,,,,,0.0,,,,7833.0,,,0.0
+20000.0,Faro,Olhão,Moncarapacho e Fuseta,Land,NC,,False,0.0,False,,2560.0,,,,,,0.0,,,,2560.0,,,0.0
+65000.0,Faro,Silves,Algoz e Tunes,Land,NC,,False,0.0,False,,320.0,153.0,,,,,0.0,,,,153.0,,,0.0
+4000.0,Faro,Loulé,Quarteira,Apartment,NC,7th Floor,True,0.0,False,1993.0,61.0,,,,,,0.0,,,,61.0,,,0.0
+7000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,Ground Floor,True,2.0,True,1990.0,52.0,52.0,,,,,1.0,,,,,,,1.0
+130000.0,Faro,Faro,Conceição e Estoi,Land,NC,,False,0.0,False,,4430.0,,,,,,,,,,,,,0.0
+1000000.0,Faro,Portimão,Portimão,Farm,E,Ground Floor,False,0.0,False,1950.0,57000.0,,,,,,2.0,,,,120.0,,,2.0
+55000.0,Faro,Albufeira,Paderne,Land,NC,,False,0.0,False,,640.0,,,,,,0.0,,,,640.0,,,0.0
+47000.0,Faro,Loulé,Almancil,Land,NC,,False,0.0,False,,5000.0,,,,,,0.0,,,,5000.0,,,0.0
+40000.0,Faro,Loulé,Boliqueime,Land,NC,,False,0.0,False,,2700.0,,,,,,0.0,,,,2700.0,,,0.0
+29900.0,Faro,Albufeira,Albufeira e Olhos de Água,Garage,NC,Ground Floor,False,2.0,True,1991.0,30.0,,,,,,0.0,,,,30.0,,,0.0
+1400000.0,Faro,Vila Real de Santo António,Vila Nova de Cacela,Apartment,A,1st Floor,False,0.0,False,2019.0,510.0,,,,,,3.0,,,,199.0,,,4.0
+85000.0,Faro,Castro Marim,Azinhal,Land,NC,,False,0.0,False,,56520.0,,,,,,0.0,,,,56520.0,,,0.0
+39900.0,Faro,Loulé,"Querença, Tôr e Benafim",Land,NC,,False,0.0,False,,18300.0,,,,,,0.0,,,,18300.0,,,0.0
+600000.0,Faro,Vila do Bispo,Sagres,House,B-,,False,3.0,True,2010.0,199.0,139.0,,,,,3.0,,,,118.0,,,2.0
+975000.0,Faro,Lagoa (Algarve),Estômbar e Parchal,House,D,,False,1.0,True,1951.0,530.0,,,,,,11.0,,,,441.0,,,10.0
+30000.0,Faro,Lagoa (Algarve),Lagoa e Carvoeiro,Store,NC,,False,0.0,False,,28.0,,,,,,0.0,,,,,,,0.0
+4950000.0,Faro,Albufeira,Albufeira e Olhos de Água,House,C,,False,1.0,True,2009.0,1130.0,778.0,,,,,5.0,,,,389.0,,,6.0
+200000.0,Faro,Albufeira,Paderne,Land,NC,,False,0.0,False,,52840.0,,,,,,0.0,,,,52840.0,,,
+125000.0,Faro,Silves,São Bartolomeu de Messines,House,NC,,False,0.0,False,1951.0,8760.0,,,,,,4.0,,,,71.0,,,0.0
+95000.0,Faro,Silves,São Bartolomeu de Messines,Land,NC,,False,0.0,False,,34640.0,,,,,,,,,,34640.0,,,0.0
+850000.0,Faro,Loulé,São Clemente,House,C,,False,3.0,True,2010.0,1830.0,200.0,,,,,4.0,,,,475.0,,,3.0
+2200000.0,Faro,Albufeira,Albufeira e Olhos de Água,Land,NC,,False,0.0,False,,30860.0,,,,,,,,,,,,,0.0
+2800000.0,Faro,Tavira,Luz de Tavira e Santo Estêvão,Farm,NC,,False,3.0,True,1999.0,18180.0,,,,,,,,,,5370.0,,,
+111000.0,Faro,Silves,Algoz e Tunes,House,F,,False,3.0,True,1951.0,4760.0,122.0,,,,,3.0,,,,0.0,,,0.0
+115000.0,Faro,Loulé,Boliqueime,Land,NC,,False,0.0,False,,449.0,,,,,,0.0,,,,42.0,,,0.0
+20000.0,Faro,Faro,Santa Bárbara de Nexe,Land,NC,,False,0.0,False,,1920.0,,,,,,0.0,,,,1920.0,,,0.0
+585000.0,Faro,Silves,Algoz e Tunes,Land,NC,,False,0.0,False,,8520.0,,,,,,0.0,,,,8520.0,,,0.0
+1690000.0,Faro,Portimão,Portimão,Land,NC,,False,0.0,False,1951.0,2478.0,,,,,,3.0,,,,2478.0,,,0.0
+800000.0,Faro,Vila do Bispo,Sagres,House,B-,,False,3.0,True,2010.0,462.0,139.0,,,,,3.0,,,,118.0,,,2.0
+550000.0,Faro,Vila do Bispo,Sagres,House,B-,,False,3.0,True,2010.0,164.0,110.0,,,,,2.0,,,,94.0,,,2.0
+19000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,1st Floor,True,1.0,True,1990.0,79.0,,,,,,1.0,,,,79.0,,,1.0
+425000.0,Faro,Silves,Silves,House,NC,,False,1.0,True,2023.0,350.0,80.0,,,,,2.0,,,,80.0,,,2.0
+399000.0,Faro,Silves,Silves,House,NC,,False,1.0,True,2023.0,350.0,80.0,,,,,2.0,,,,80.0,,,2.0
+950000.0,Faro,Faro,Faro (Sé e São Pedro),Land,NC,,False,0.0,False,,16680.0,16680.0,,,,,0.0,,,,,,,0.0
+1300000.0,Faro,Vila Real de Santo António,Vila Nova de Cacela,House,B-,,False,0.0,False,2019.0,422.0,,,,,,3.0,,,,199.0,,,3.0
+1400000.0,Faro,Vila Real de Santo António,Vila Nova de Cacela,House,B-,,False,2.0,True,2019.0,433.0,,,,,,3.0,,,,199.0,,,3.0
+800000.0,Faro,Lagos,São Gonçalo de Lagos,House,E,,False,3.0,True,1978.0,202.0,,,,,,6.0,,,,150.0,,,3.0
+76000.0,Faro,Loulé,Salir,House,NC,Ground Floor,False,0.0,False,1937.0,1423.0,,,,,,0.0,,,,63.0,,,0.0
+8500.0,Faro,Silves,Algoz e Tunes,Land,NC,,False,0.0,False,1988.0,3760.0,,,,,,,,,,3760.0,,,0.0
+1500000.0,Faro,Loulé,Quarteira,Other - Commercial,B-,,False,2.0,True,2010.0,451.0,,,,,,,,,,,,,4.0
+1250000.0,Faro,Vila Real de Santo António,Vila Nova de Cacela,House,B-,,False,0.0,False,2019.0,422.0,,,,,,3.0,,,,199.0,,,3.0
+20000000.0,Faro,Lagos,Bensafrim e Barão de São João,Land,NC,,False,0.0,False,,490807.0,,,,,,0.0,,,,,,,0.0
+270000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,D,3rd Floor,True,0.0,False,2003.0,128.0,,,,,,2.0,,,,128.0,,,2.0
+920000.0,Faro,Portimão,Portimão,Apartment,D,Top Floor,True,1.0,True,2007.0,251.0,469.0,,,,,4.0,,,,218.0,,,3.0
+15700.0,Faro,Silves,Silves,Land,NC,Ground Floor,False,0.0,False,,6280.0,,,,,,0.0,,,,,,,0.0
+5000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,,False,0.0,False,2012.0,37.0,,,,,,1.0,,,,37.0,,,1.0
+6000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,,False,,True,1998.0,70.0,,,,,,1.0,,,,70.0,,,1.0
+85000.0,Faro,Monchique,Marmelete,Land,NC,,False,0.0,False,,112500.0,,,,,,0.0,,,,112500.0,,,0.0
+65000.0,Faro,Silves,São Bartolomeu de Messines,Land,NC,,False,0.0,False,,27240.0,,,,,,,,,,27240.0,,,0.0
+95900.0,Faro,Olhão,Moncarapacho e Fuseta,Land,NC,,False,0.0,False,1989.0,25720.0,,,,,,,,,,25720.0,,,0.0
+550000.0,Faro,Lagos,São Gonçalo de Lagos,House,F,,False,3.0,True,1951.0,191.0,,,,,,2.0,,,,191.0,,,1.0
+250000.0,Faro,Lagoa (Algarve),Lagoa e Carvoeiro,Land,NC,,False,0.0,False,1989.0,6610.0,,,,,,,,,,,,,0.0
+2900000.0,Faro,Lagos,São Gonçalo de Lagos,Apartment,A+,5th Floor,True,3.0,True,2019.0,307.0,450.0,,,,,4.0,,,,307.0,,,5.0
+1500000.0,Faro,Castro Marim,Castro Marim,Farm,F,,False,0.0,False,1951.0,439.0,,,,,,2.0,,,,226000.0,,,1.0
+118000.0,Faro,Loulé,São Clemente,Apartment,NC,Ground Floor,False,0.0,False,1984.0,122.0,,,,,,0.0,,,,122.0,,,0.0
+5900.0,Faro,Loulé,Quarteira,Apartment,NC,3rd Floor,True,0.0,False,2000.0,40.0,40.0,,,,,0.0,,,,40.0,,,1.0
+1300000.0,Faro,Vila Real de Santo António,Vila Nova de Cacela,House,B-,,False,2.0,True,2019.0,433.0,,,,,,3.0,,,,199.0,,,3.0
+190000.0,Faro,Vila do Bispo,Vila do Bispo e Raposeira,Land,NC,,False,0.0,False,1951.0,11360.0,46.0,,,,,0.0,,,,46.0,,,0.0
+17000.0,Faro,Silves,São Bartolomeu de Messines,Land,NC,,False,0.0,False,,3360.0,,,,,,0.0,,,,3360.0,,,0.0
+2500000.0,Faro,Portimão,Mexilhoeira Grande,Land,NC,,False,0.0,False,,209000.0,,,,,,0.0,,,,209000.0,,,0.0
+325000.0,Faro,Vila do Bispo,Sagres,Land,NC,,False,0.0,False,,857.0,,,,,,0.0,,,,857.0,,,0.0
+475000.0,Faro,Vila do Bispo,Sagres,Land,NC,,False,0.0,False,,1305.0,,,,,,0.0,,,,1305.0,,,0.0
+220000.0,Faro,Lagos,Bensafrim e Barão de São João,Land,NC,,False,0.0,False,,120104.0,,,,,,0.0,,,,120104.0,,,0.0
+1132000.0,Faro,Loulé,São Clemente,House,C,,False,1.0,True,1994.0,1320.0,260.0,,,,,4.0,,,,260.0,,,4.0
+850000.0,Faro,Loulé,São Clemente,House,C,,False,0.0,False,2015.0,1716.0,,,,,,4.0,,,,233.0,,,4.0
+10000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,Ground Floor,False,1.0,True,1998.0,96.0,96.0,,,,,2.0,,,,85.0,,,2.0
+250000.0,Faro,Loulé,Almancil,Apartment,E,2nd Floor,False,,True,1999.0,119.0,110.0,,,,,3.0,,,,110.0,,,2.0
+10000.0,Faro,Loulé,Quarteira,Apartment,NC,6th Floor,True,0.0,False,1991.0,0.0,72.0,,,,,0.0,,,,61.0,,,1.0
+335000.0,Faro,Olhão,Olhão,Apartment,B,,False,0.0,False,2011.0,115.0,,,,,,2.0,,,,115.0,,,3.0
+360000.0,Faro,Lagoa (Algarve),Lagoa e Carvoeiro,Farm,NC,,False,0.0,False,,4500.0,,,,,,3.0,,,,200.0,,,0.0
+520000.0,Faro,Portimão,Portimão,Store,B-,Ground Floor,False,0.0,False,,1256.0,291.0,,,,,0.0,,,,,,,0.0
+100000.0,Faro,Lagoa (Algarve),Estômbar e Parchal,Land,NC,,False,0.0,False,1990.0,235.0,,,,,,0.0,,,,235.0,,,0.0
+350000.0,Faro,São Brás de Alportel,São Brás de Alportel,Land,NC,,False,1.0,True,1991.0,1360.0,,,,,,0.0,,,,1360.0,,,0.0
+135000.0,Faro,Monchique,Marmelete,Land,NC,,False,0.0,False,1992.0,18500.0,,,,,,0.0,,,,80.0,,,0.0
+2400000.0,Faro,Portimão,Mexilhoeira Grande,Land,NC,,False,0.0,False,1984.0,482390.0,,,,,,0.0,,,,482390.0,,,
+900000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,B,2nd Floor,False,,True,2007.0,133.0,133.0,,,,,2.0,,,,110.0,,,2.0
+368000.0,Faro,Portimão,Portimão,Land,NC,,False,0.0,False,,376.0,,,,,,0.0,,,,376.0,,,
+4000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,1st Floor,True,0.0,False,1995.0,30.0,,,,,,0.0,,,,30.0,,,1.0
+380000.0,Faro,Lagos,Luz,Apartment,E,1st Floor,False,0.0,False,2019.0,343.0,63.0,,,,,2.0,,,,63.0,,,3.0
+240000.0,Faro,Albufeira,Albufeira e Olhos de Água,Store,E,Ground Floor,False,0.0,False,,69.0,41.0,,,,,0.0,,,,,,,0.0
+35000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,1st Floor,True,0.0,False,1990.0,80.0,,,,,,1.0,,,,80.0,,,1.0
+735000.0,Faro,Lagoa (Algarve),Ferragudo,House,B-,,False,2.0,True,2007.0,370.0,,,,,,3.0,,,,347.0,,,2.0
+150000.0,Faro,Vila do Bispo,Sagres,Land,NC,,False,0.0,False,,311.0,,,,,,0.0,,,,311.0,,,0.0
+95000.0,Faro,Vila do Bispo,Sagres,Land,NC,,False,0.0,False,,179.0,,,,,,0.0,,,,179.0,,,0.0
+69000.0,Faro,Tavira,Conceição e Cabanas de Tavira,House,NC,,False,0.0,False,1951.0,275.0,105.0,,,,,1.0,,,,91.0,,,1.0
+70000.0,Faro,Loulé,Boliqueime,Land,NC,,False,0.0,False,,2700.0,,,,,,0.0,,,,2700.0,,,0.0
+89900.0,Faro,Silves,São Bartolomeu de Messines,Land,NC,,False,0.0,False,2006.0,16200.0,,,,,,0.0,,,,96.0,,,0.0
+490000.0,Faro,Lagoa (Algarve),Lagoa e Carvoeiro,Farm,NC,Ground Floor,False,0.0,False,,10980.0,,,,,,4.0,,,,510.0,,,2.0
+28000.0,Faro,Albufeira,Guia,Land,NC,,False,0.0,False,2019.0,4490.0,,,,,,0.0,,,,4490.0,,,0.0
+30000.0,Faro,Silves,Algoz e Tunes,Land,NC,,False,,True,,4320.0,,,,,,0.0,,,,,,,0.0
+3800000.0,Faro,Albufeira,Albufeira e Olhos de Água,Land,NC,,False,0.0,False,,10320.0,,,,,,,,,,10320.0,,,
+1650000.0,Faro,Olhão,Olhão,Land,NC,,False,0.0,False,2003.0,2236.0,,,,,,0.0,,,,2236.0,,,0.0
+67380.0,Faro,Loulé,São Sebastião,Land,NC,,False,0.0,False,1981.0,3500.0,,,,,,0.0,,,,3500.0,,,0.0
+38000.0,Faro,Silves,São Bartolomeu de Messines,Land,NC,,False,0.0,False,,11640.0,,,,,,0.0,,,,11640.0,,,0.0
+7300.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,Ground Floor,False,0.0,False,1996.0,76.0,,,,,,2.0,,,,76.0,,,2.0
+100000.0,Faro,Vila do Bispo,Sagres,Land,NC,,False,0.0,False,,180.0,,,,,,0.0,,,,180.0,,,0.0
+95000.0,Faro,Vila do Bispo,Sagres,Land,NC,,False,0.0,False,,178.0,,,,,,0.0,,,,178.0,,,0.0
+88000.0,Faro,Silves,Algoz e Tunes,Land,NC,,False,0.0,False,1990.0,401.0,,,,,,0.0,,,,401.0,,,0.0
+1400000.0,Faro,Lagoa (Algarve),Lagoa e Carvoeiro,House,D,,False,2.0,True,1965.0,1564.0,,,,,,13.0,,,,344.0,,,4.0
+19750.0,Faro,Tavira,Tavira (Santa Maria e Santiago),Land,NC,,False,0.0,False,,7490.0,,,,,,0.0,,,,7490.0,,,0.0
+750000.0,Faro,São Brás de Alportel,São Brás de Alportel,House,D,,False,0.0,False,2005.0,6723.0,,,,,,5.0,,,,330.0,,,0.0
+30000.0,Faro,Silves,São Bartolomeu de Messines,Land,NC,,False,0.0,False,,25480.0,,,,,,0.0,,,,25480.0,,,0.0
+2900000.0,Faro,Loulé,Almancil,Farm,D,,False,2.0,True,1985.0,984.0,,,,,,4.0,,,,984.0,,,5.0
+17500.0,Faro,Silves,Algoz e Tunes,Land,NC,,False,,True,,1920.0,,,,,,0.0,,,,,,,
+50000.0,Faro,Olhão,Quelfes,Land,NC,,False,0.0,False,1989.0,3200.0,,,,,,0.0,,,,3200.0,,,0.0
+50000.0,Faro,Castro Marim,Azinhal,Land,NC,,False,0.0,False,1987.0,7960.0,,,,,,0.0,,,,7960.0,,,0.0
+470000.0,Faro,Portimão,Portimão,Warehouse,NC,,False,0.0,False,,660.0,520.0,,,,,0.0,,,,,,,
+60000.0,Faro,Silves,Algoz e Tunes,Land,NC,,False,,True,,6440.0,,,,,,0.0,,,,,,,0.0
+150000.0,Faro,Loulé,Quarteira,Store,D,Ground Floor,False,0.0,False,,102.0,,,,,,0.0,,,,,,,0.0
+800000.0,Faro,Albufeira,Ferreiras,Land,NC,,False,0.0,False,2019.0,3661.0,,,,,,0.0,,,,1843.0,,,0.0
+13700.0,Faro,Alcoutim,Alcoutim e Pereiro,Land,NC,,False,0.0,False,,7360.0,,,,,,0.0,,,,7360.0,,,0.0
+900000.0,Faro,Olhão,Olhão,House,F,,False,0.0,False,1988.0,4010.0,4010.0,,,,,0.0,,,,4010.0,,,0.0
+25000.0,Faro,Alcoutim,Alcoutim e Pereiro,Land,NC,,False,0.0,False,,35640.0,,,,,,0.0,,,,35640.0,,,0.0
+99500.0,Faro,Castro Marim,Castro Marim,House,NC,,False,0.0,False,1951.0,3000.0,502.0,,,,,4.0,,,,197.0,,,2.0
+110999.0,Faro,Portimão,Portimão,Store,C,Ground Floor,False,0.0,False,,33.0,33.0,,,,,0.0,,,,,,,0.0
+368000.0,Faro,Portimão,Portimão,Land,NC,,False,0.0,False,,376.0,,,,,,0.0,,,,376.0,,,
+10500.0,Faro,Loulé,Quarteira,Apartment,NC,2nd Floor,True,0.0,False,1988.0,0.0,60.0,,,,,1.0,,,,60.0,,,1.0
+1500000.0,Faro,Loulé,Quarteira,House,C,,False,3.0,True,2004.0,840.0,,,,,,3.0,,,,202.0,,,6.0
+52500.0,Faro,Silves,Silves,Land,NC,,False,0.0,False,1951.0,5456.0,,,,,,0.0,,,,5456.0,,,0.0
+42000.0,Faro,Loulé,"Querença, Tôr e Benafim",Land,NC,,False,1.0,True,1985.0,5560.0,,,,,,0.0,,,,5560.0,,,0.0
+320000.0,Faro,Lagos,Luz,Apartment,E,Ground Floor,False,0.0,False,2019.0,343.0,81.0,,,,,2.0,,,,81.0,,,3.0
+520000.0,Faro,Loulé,Quarteira,Store,F,Ground Floor,False,0.0,False,,140.0,78.0,,,,,0.0,,,,,,,0.0
+666000.0,Faro,Portimão,Portimão,Land,NC,,False,0.0,False,,575.0,,,,,,0.0,,,,575.0,,,
+21000.0,Faro,Alcoutim,Alcoutim e Pereiro,Land,NC,,False,0.0,False,,24640.0,,,,,,0.0,,,,24640.0,,,0.0
+149500.0,Faro,Portimão,Portimão,Land,NC,,False,0.0,False,,660.0,,,,,,0.0,,,,660.0,,,0.0
+49000.0,Faro,Albufeira,Paderne,Land,NC,,False,0.0,False,,8360.0,8360.0,,,,,0.0,,,,8360.0,,,0.0
+5000.0,Faro,Albufeira,Guia,Apartment,NC,2nd Floor,True,0.0,False,1990.0,35.0,,,,,,0.0,,,,35.0,,,1.0
+50000.0,Faro,Faro,Conceição e Estoi,Land,NC,,False,0.0,False,,10320.0,,,,,,0.0,,,,10320.0,,,0.0
+350000.0,Faro,Vila do Bispo,Vila do Bispo e Raposeira,Store,C,,False,2.0,True,,45.0,,,,,,0.0,,,,90.0,,,0.0
+1500000.0,Faro,Lagos,São Gonçalo de Lagos,Land,NC,,False,0.0,False,2020.0,3683.0,1451.0,,,,,0.0,,,,1233.0,,,0.0
+15000000.0,Faro,Silves,São Bartolomeu de Messines,Farm,NC,,False,0.0,False,1950.0,803240.0,,,,,,1.0,,,,360.0,,,0.0
+17500.0,Faro,Loulé,Quarteira,Apartment,NC,5th Floor,True,0.0,False,2000.0,28.0,,,,,,0.0,,,,28.0,,,1.0
+900000.0,Faro,Lagos,São Gonçalo de Lagos,Land,NC,,False,0.0,False,2020.0,1169.0,900.0,,,,,0.0,,,,765.0,,,0.0
+77000.0,Guarda,Celorico da Beira,Lajeosa do Mondego,House,NC,,False,0.0,False,1970.0,69.0,128.0,,,,,5.0,,,,50.0,,,1.0
+185000.0,Guarda,Seia,"Seia, São Romão e Lapa dos Dinheiros",House,F,,False,2.0,True,1993.0,410.0,564.0,,,,,3.0,,,,188.0,,,3.0
+69000.0,Guarda,Seia,Paranhos,Land,NC,,False,0.0,False,,24680.0,,,,,,,,,,,,,0.0
+60000.0,Guarda,Guarda,Guarda,Land,NC,,False,0.0,False,,467.0,,,,,,,,,,,,,0.0
+185000.0,Guarda,Trancoso,Palhais,House,NC,,False,3.0,True,2023.0,969.0,,,,,,4.0,,,,485.0,,,0.0
+10000.0,Guarda,Seia,Vide e Cabeça,Land,NC,,False,0.0,False,1982.0,0.0,,,,,,,,,,,,,0.0
+45000.0,Guarda,Pinhel,Lamegal,House,F,,False,2.0,True,1973.0,96.0,128.0,,,,,3.0,,,,96.0,,,2.0
+155000.0,Guarda,Trancoso,Vila Franca das Naves e Feital,Farm,F,,False,0.0,False,,92.0,,,,,,,,,,,,,0.0
+550000.0,Guarda,Sabugal,Sabugal e Aldeia de Santo António,Land,NC,,False,0.0,False,,142511.0,,,,,,,,,,,,,0.0
+26500.0,Faro,Loulé,São Sebastião,Land,NC,,False,0.0,False,,5000.0,,,,,,0.0,,,,5000.0,,,
+2850.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,Ground Floor,False,3.0,True,1988.0,2857.0,,,,,,1.0,,,,82.0,,,1.0
+900000.0,Faro,Lagos,São Gonçalo de Lagos,Land,NC,,False,0.0,False,2020.0,1171.0,900.0,,,,,0.0,,,,765.0,,,0.0
+49000.0,Faro,Silves,São Bartolomeu de Messines,Land,NC,,False,0.0,False,,4140.0,,,,,,0.0,,,,4140.0,,,0.0
+10000.0,Faro,Alcoutim,Alcoutim e Pereiro,Land,NC,,False,0.0,False,1990.0,440.0,,,,,,0.0,,,,440.0,,,0.0
+12500000.0,Faro,Albufeira,Guia,Farm,NC,,False,1.0,True,1950.0,101520.0,,,,,,,,,,2000.0,,,
+1100000.0,Faro,Lagos,São Gonçalo de Lagos,Land,NC,,False,0.0,False,2020.0,1417.0,900.0,,,,,0.0,,,,765.0,,,0.0
+4500000.0,Faro,Loulé,Almancil,Land,NC,,False,0.0,False,,1285.0,,,,,,,,,,,,,0.0
+22000.0,Leiria,Ansião,Santiago da Guarda,House,NC,,False,1.0,True,2012.0,90.0,,,,,,1.0,,,,540.0,,,
+15500.0,Porto,Amarante,"Bustelo, Carneiro e Carvalho de Rei",Land,NC,,False,0.0,False,,8900.0,,,,,,,,,,,,,0.0
+325000.0,Guarda,Sabugal,Sabugal e Aldeia de Santo António,House,B,,False,3.0,True,1993.0,888.0,160.0,,,,,4.0,,,,160.0,,,0.0
+37000.0,Guarda,Guarda,Santana da Azinha,House,NC,,False,1.0,True,1937.0,10032.0,,,,,,2.0,,,,42.0,,,1.0
+27500.0,Guarda,Trancoso,Póvoa do Concelho,House,NC,,False,0.0,False,1957.0,85.0,,,,,,2.0,,,,45.0,,,0.0
+33000.0,Faro,Silves,Silves,Land,NC,,False,0.0,False,,200.0,,,,,,0.0,,,,200.0,,,0.0
+1000000.0,Faro,Portimão,Portimão,Land,NC,,False,0.0,False,,19050.0,,,,,,0.0,,,,19050.0,,,0.0
+17000.0,Faro,Loulé,Quarteira,Apartment,NC,5th Floor,True,0.0,False,2000.0,47.0,,,,,,0.0,,,,47.0,,,1.0
+17500.0,Faro,Loulé,Quarteira,Apartment,NC,5th Floor,True,0.0,False,2000.0,28.0,,,,,,0.0,,,,28.0,,,1.0
+18000.0,Guarda,Figueira de Castelo Rodrigo,Escalhão,House,NC,,True,0.0,False,1960.0,49.0,56.0,,,,,2.0,,,,21.0,,,
+23500.0,Guarda,Trancoso,Trancoso (São Pedro e Santa Maria) e Souto Maior,House,NC,,False,1.0,True,2019.0,86.0,172.0,,,,,2.0,,,,86.0,,,0.0
+22000.0,Guarda,Seia,Paranhos,House,NC,,False,0.0,False,1970.0,60.0,60.0,,,,,2.0,,,,51.0,,,0.0
+12000.0,Guarda,Seia,"Seia, São Romão e Lapa dos Dinheiros",Garage,NC,,False,2.0,True,1996.0,28.0,,,,,,,,,,,,,
+19000.0,Guarda,Fornos de Algodres,Fornos de Algodres,House,F,,False,1.0,True,1988.0,42.0,109.0,,,,,1.0,,,,87.0,,,1.0
+30000.0,Faro,Silves,São Bartolomeu de Messines,Land,NC,,False,0.0,False,,8360.0,,,,,,0.0,,,,8360.0,,,0.0
+650000.0,Faro,Monchique,Monchique,Land,NC,,False,0.0,False,,50947.0,,,,,,0.0,,,,50947.0,,,0.0
+6000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,Ground Floor,False,0.0,False,1990.0,79.0,,,,,,1.0,,,,79.0,,,1.0
+160000.0,Faro,Faro,Faro (Sé e São Pedro),Store,NC,,False,0.0,False,,191.0,191.0,,,,,0.0,,,,,,,
+1575000.0,Faro,São Brás de Alportel,São Brás de Alportel,Land,NC,,False,0.0,False,,9960.0,,,,,,0.0,,,,3897.0,,,0.0
+1200000.0,Faro,Lagos,São Gonçalo de Lagos,Land,NC,,False,0.0,False,2020.0,1474.0,1200.0,,,,,0.0,,,,1020.0,,,0.0
+49000.0,Faro,Silves,São Bartolomeu de Messines,Land,NC,,False,0.0,False,,920.0,,,,,,0.0,,,,920.0,,,0.0
+49000.0,Faro,Silves,São Bartolomeu de Messines,Land,NC,,False,0.0,False,,1920.0,,,,,,0.0,,,,1920.0,,,0.0
+585000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,A,1st Floor,True,2.0,True,2022.0,176.0,155.0,,,,,3.0,,,,126.0,,,2.0
+20000.0,Faro,Albufeira,Albufeira e Olhos de Água,Apartment,NC,Ground Floor,False,0.0,False,1990.0,104.0,,,,,,2.0,,,,8464.0,,,2.0
+43000.0,Faro,Silves,São Marcos da Serra,Land,NC,,False,0.0,False,,2935.0,,,,,,0.0,,,,2935.0,,,0.0
+2310000.0,Faro,Lagoa (Algarve),Estômbar e Parchal,Warehouse,NC,,False,0.0,False,,12998.0,,,,,,0.0,,,,,,,0.0
+30000.0,Faro,Silves,São Marcos da Serra,Land,NC,,False,0.0,False,,0.0,,,,,,0.0,,,,,,,0.0
+160000.0,Faro,Silves,Silves,Land,NC,,False,0.0,False,,62280.0,,,,,,0.0,,,,62280.0,,,0.0
+1100000.0,Faro,Lagos,São Gonçalo de Lagos,Land,NC,,False,0.0,False,2020.0,1613.0,900.0,,,,,0.0,,,,765.0,,,0.0
+900000.0,Faro,Lagos,São Gonçalo de Lagos,Land,NC,,False,0.0,False,2020.0,1662.0,900.0,,,,,0.0,,,,765.0,,,0.0
+2200000.0,Faro,Loulé,Quarteira,Investment,NC,Basement Level,False,0.0,False,,0.0,,,,,,0.0,,,,,,,0.0
+2500.0,Porto,Amarante,"Bustelo, Carneiro e Carvalho de Rei",Land,NC,,False,0.0,False,,4200.0,,,,,,,,,,,,,0.0
+70000.0,Guarda,Mêda,"Mêda, Outeiro de Gatos e Fonte Longa",House,E,,False,0.0,False,1937.0,222.0,380.0,,,,,4.0,,,,156.0,,,2.0
+115000.0,Guarda,Figueira de Castelo Rodrigo,Figueira de Castelo Rodrigo,House,D,,False,3.0,True,1970.0,200.0,,,,,,3.0,,,,120.0,,,2.0
+35000.0,Guarda,Seia,Vide e Cabeça,Land,NC,,False,0.0,False,,0.0,,,,,,,,,,,,,0.0
+34750.0,Guarda,Fornos de Algodres,"Juncais, Vila Ruiva e Vila Soeiro do Chão",House,F,,False,1.0,True,1968.0,44.0,133.0,,,,,3.0,,,,101.0,,,2.0
+220000.0,Leiria,Ansião,Santiago da Guarda,House,C,,False,3.0,True,1999.0,328.0,,,,,,4.0,,,,328.0,,,0.0
+28000.0,Guarda,Seia,Santiago,Land,NC,,False,0.0,False,,17325.0,,,,,,,,,,,,,0.0
+6000.0,Guarda,Manteigas,Vale de Amoreira,Land,NC,,False,0.0,False,,500.0,,,,,,,,,,,,,0.0
+9900.0,Guarda,Guarda,Guarda,Garage,NC,,False,1.0,True,,12.0,12.0,,,,,,,,,12.0,,,0.0
+18000.0,Viseu,Tondela,Guardão,Land,NC,,False,0.0,False,,16805.0,,,,,,,,,,,,,0.0
+20000.0,Guarda,Sabugal,Aldeia do Bispo,Other - Commercial,NC,,False,0.0,False,,2700.0,2700.0,,,,,,,,,2700.0,,,0.0
+140000.0,Guarda,Seia,Santa Comba,House,E,,False,1.0,True,1961.0,757.0,,,,,,3.0,,,,99.0,,,1.0
+650000.0,Guarda,Pinhel,Pinhel,Store,B-,,False,0.0,False,2015.0,143.0,,,,,,,,,,257.0,,,2.0
+55000.0,Guarda,Fornos de Algodres,Cortiçô e Vila Chã,Building,C,,False,1.0,True,2001.0,155.0,155.0,,,,,1.0,,,,140.0,,,1.0
+42500.0,Guarda,Pinhel,Manigoto,House,NC,,False,3.0,True,1989.0,400.0,,,,,,3.0,,,,228.0,,,0.0
+30000.0,Guarda,Pinhel,Pinhel,Land,NC,,False,0.0,False,,484.0,,,,,,,,,,,,,0.0
+190000.0,Guarda,Vila Nova de Foz Côa,Vila Nova de Foz Côa,House,E,,False,3.0,True,1994.0,338.0,,,,,,4.0,,,,278.0,,,2.0
+38000.0,Guarda,Seia,Paranhos,Land,NC,,False,0.0,False,,7370.0,,,,,,,,,,,,,0.0
+110000.0,Guarda,Gouveia,Vila Franca da Serra,Land,NC,,False,3.0,True,,233600.0,,,,,,,,,,,,,0.0
+25000.0,Viseu,Tondela,Guardão,House,NC,,False,0.0,False,1937.0,33.0,,,,,,2.0,,,,66.0,,,0.0
+27500.0,Guarda,Pinhel,Agregação das freguesias Sul de Pinhel,House,NC,,False,1.0,True,1949.0,256.0,60.0,,,,,2.0,,,,56.0,,,0.0
+43850.0,Guarda,Celorico da Beira,Celorico (São Pedro e Santa Maria) e Vila Boa do Mondego,Land,NC,,False,0.0,False,,705.0,,,,,,,,,,,,,0.0
+89000.0,Guarda,Pinhel,Pinhel,House,F,,False,2.0,True,1984.0,196.0,,,,,,3.0,,,,78.0,,,0.0
+37500.0,Guarda,Celorico da Beira,Lajeosa do Mondego,House,NC,,False,0.0,False,1970.0,136.0,,,,,,4.0,,,,136.0,,,
+30000.0,Guarda,Almeida,Almeida,House,NC,,False,0.0,False,1937.0,84.0,,,,,,2.0,,,,83.0,,,0.0
+25000.0,Guarda,Fornos de Algodres,Algodres,House,NC,,False,0.0,False,1968.0,43.0,,,,,,2.0,,,,36.0,,,0.0
+35000.0,Leiria,Marinha Grande,Marinha Grande,Land,NC,,False,3.0,True,,319.0,,,,,,,,,,,,,0.0
+7300.0,Viseu,Tondela,Guardão,Land,NC,,False,0.0,False,,14207.0,,,,,,,,,,,,,0.0
+2600.0,Viseu,Tondela,Guardão,Land,NC,,False,0.0,False,,4070.0,,,,,,,,,,,,,0.0
+13000.0,Viseu,Tondela,Guardão,House,NC,,False,0.0,False,1937.0,40.0,,,,,,2.0,,,,44.0,,,0.0
+90000.0,Guarda,Fornos de Algodres,"Juncais, Vila Ruiva e Vila Soeiro do Chão",Farm,NC,,False,0.0,False,1937.0,203000.0,136.0,,,,,,,,,68.0,,,
+45000.0,Guarda,Guarda,Maçainhas,Land,NC,,False,0.0,False,,420.0,,,,,,,,,,,,,0.0
+79500.0,Guarda,Guarda,Guarda,Store,E,,False,0.0,False,1988.0,119.0,,,,,,,,,,,,,0.0
+230000.0,Leiria,Ansião,Santiago da Guarda,House,D,,False,3.0,True,1983.0,252.0,,,,,,5.0,,,,252.0,,,0.0
+155000.0,Guarda,Mêda,Ranhados,House,F,,False,0.0,False,1951.0,191.0,310.0,,,,,3.0,,,,140.0,,,0.0
+40000.0,Guarda,Seia,"Seia, São Romão e Lapa dos Dinheiros",House,NC,,False,0.0,False,1940.0,42.0,42.0,,,,,4.0,,,,32.0,,,1.0
+230000.0,Guarda,Fornos de Algodres,Fornos de Algodres,Farm,F,,False,3.0,True,,250000.0,,,,,,3.0,,,,,,,1.0
+18000.0,Guarda,Guarda,Guarda,Garage,NC,,False,3.0,True,1984.0,72.0,,,,,,,,,,,,,0.0
+260000.0,Guarda,Seia,"Seia, São Romão e Lapa dos Dinheiros",House,A,,False,3.0,True,1983.0,1000.0,534.0,,,,,3.0,,,,233.0,,,3.0
+150000.0,Guarda,Figueira de Castelo Rodrigo,Escalhão,House,F,,False,1.0,True,1970.0,1229.0,,,,,,3.0,,,,123.0,,,1.0
+130000.0,Guarda,Seia,Travancinha,House,F,,False,1.0,True,1981.0,410.0,,,,,,5.0,,,,230.0,,,
+195000.0,Guarda,Seia,Loriga,House,NC,,False,0.0,False,2023.0,288.0,,,,,,3.0,,,,112.0,,,2.0
+45000.0,Guarda,Manteigas,São Pedro,Land,NC,,False,0.0,False,,46000.0,,,,,,,,,,,,,0.0
+25000.0,Guarda,Celorico da Beira,Carrapichana,Land,NC,,False,3.0,True,,1984.0,,,,,,,,,,,,,0.0
+25000.0,Guarda,Celorico da Beira,Linhares,Land,NC,,False,0.0,False,,4715.0,,,,,,,,,,,,,0.0
+70000.0,Guarda,Gouveia,Vila Franca da Serra,Farm,NC,,False,3.0,True,,239600.0,239600.0,,,,,,,,,2396000.0,,,0.0
+148000.0,Guarda,Celorico da Beira,"Cortiçô da Serra, Vide Entre Vinhas e Salgueirais",House,F,,False,3.0,True,1970.0,410.0,,,,,,3.0,,,,369.0,,,2.0
+350000.0,Guarda,Celorico da Beira,Celorico (São Pedro e Santa Maria) e Vila Boa do Mondego,House,F,,False,2.0,True,1970.0,140.0,192.0,,,,,3.0,,,,104.0,,,2.0
+1130000.0,Guarda,Trancoso,Trancoso (São Pedro e Santa Maria) e Souto Maior,Other - Commercial,C,,True,3.0,True,,1672.0,,,,,,,,,,1672.0,,,0.0
+184000.0,Guarda,Seia,Sandomil,House,B-,,False,2.0,True,1982.0,322.0,174.0,,,,,2.0,,,,174.0,,,4.0
+14750.0,Guarda,Gouveia,Gouveia (São Pedro e São Julião),Land,NC,,False,3.0,True,,287.0,287.0,,,,,,,,,,,,0.0
+25000.0,Guarda,Guarda,Vila Franca do Deão,House,NC,,False,1.0,True,1951.0,551.0,103.0,,,,,3.0,,,,55.0,,,0.0
+25000.0,Guarda,Celorico da Beira,"Cortiçô da Serra, Vide Entre Vinhas e Salgueirais",Land,NC,,False,3.0,True,,1010.0,,,,,,,,,,,,,0.0
+19900.0,Guarda,Vila Nova de Foz Côa,Sebadelhe,House,G,,False,1.0,True,1950.0,124.0,231.0,,,,,2.0,,,,107.0,,,1.0
+9900.0,Guarda,Guarda,Guarda,Garage,NC,,False,1.0,True,1983.0,15.0,,,,,,,,,,15.0,,,0.0
+297500.0,Guarda,Gouveia,Gouveia (São Pedro e São Julião),House,D,,False,3.0,True,1951.0,2554.0,852.0,,,,,5.0,,,,227.0,,,5.0
+7000.0,Viseu,Tondela,Guardão,Land,B,,False,0.0,False,,8360.0,,,,,,,,,,,,,0.0
+12300.0,Viseu,Tondela,Guardão,Land,NC,,False,0.0,False,,20600.0,,,,,,,,,,,,,0.0
+14000.0,Guarda,Gouveia,Nespereira,House,NC,,False,0.0,False,1969.0,45.0,85.0,,,,,2.0,,,,85.0,,,1.0
+45000.0,Guarda,Mêda,Longroiva,House,E,,False,0.0,False,1989.0,42.0,84.0,,,,,2.0,,,,72.0,,,1.0
+53000.0,Guarda,Manteigas,Sameiro,House,NC,,False,1.0,True,1950.0,2240.0,91.0,,,,,0.0,,,,91.0,,,0.0
+5000.0,Guarda,Seia,Tourais e Lajes,Land,NC,,False,0.0,False,,3400.0,,,,,,,,,,,,,0.0
+95000.0,Guarda,Sabugal,Cerdeira,House,NC,,False,0.0,False,1939.0,3799.0,,,,,,7.0,,,,200.0,,,1.0
+160000.0,Guarda,Almeida,Vilar Formoso,House,F,,False,1.0,True,1986.0,957.0,189.0,,,,,3.0,,,,69.0,,,1.0
+37000.0,Guarda,Trancoso,Moimentinha,House,F,,False,3.0,True,1951.0,80.0,,,,,,4.0,,,,160.0,,,2.0
+30000.0,Guarda,Pinhel,Alverca da Beira/Bouça Cova,House,F,,False,0.0,False,1949.0,74.0,,,,,,3.0,,,,107.0,,,0.0
+135000.0,Guarda,Seia,Vila Cova Ã  Coelheira,House,B,,False,1.0,True,2006.0,99.0,270.0,,,,,3.0,,,,150.0,,,0.0
+40000.0,Guarda,Celorico da Beira,Lajeosa do Mondego,House,E,,False,1.0,True,1980.0,53.0,159.0,,,,,3.0,,,,106.0,,,1.0
+65000.0,Guarda,Seia,Tourais e Lajes,Land,NC,,False,0.0,False,,5110.0,,,,,,,,,,,,,0.0
+98000.0,Guarda,Seia,"Seia, São Romão e Lapa dos Dinheiros",House,C,,False,0.0,False,2009.0,113.0,60.0,,,,,1.0,,,,58.0,,,1.0
+54500.0,Guarda,Celorico da Beira,Celorico (São Pedro e Santa Maria) e Vila Boa do Mondego,Land,NC,,False,0.0,False,,840.0,,,,,,,,,,,,,0.0
+28000.0,Guarda,Manteigas,Santa Maria,Land,NC,,False,0.0,False,,458.0,,,,,,,,,,,,,0.0
+159000.0,Leiria,Ansião,Santiago da Guarda,House,F,,False,3.0,True,1982.0,140.0,100.0,,,,,3.0,,,,82.0,,,0.0
+235000.0,Guarda,Pinhel,Agregação das freguesias Sul de Pinhel,House,A+,,False,0.0,False,1949.0,595.0,,,,,,2.0,,,,162.0,,,2.0
+50000.0,Guarda,Gouveia,Ribamondego,House,F,,False,1.0,True,1983.0,315.0,315.0,,,,,2.0,,,,283.0,,,2.0
+110000.0,Guarda,Seia,Sazes da Beira,House,F,,False,2.0,True,1989.0,161.0,304.0,,,,,4.0,,,,152.0,,,2.0
+25000.0,Guarda,Guarda,Panoias de Cima,House,NC,,False,1.0,True,1937.0,233.0,,,,,,3.0,,,,144.0,,,0.0
+85000.0,Guarda,Figueira de Castelo Rodrigo,Figueira de Castelo Rodrigo,House,NC,,False,0.0,False,2002.0,259.0,,,,,,3.0,,,,142.0,,,2.0
+25000.0,Guarda,Guarda,Gonçalo,House,F,,False,0.0,False,1937.0,62.0,,,,,,2.0,,,,134.0,,,0.0
+300000.0,Guarda,Seia,Carragozela e Várzea de Meruge,Farm,NC,,False,0.0,False,,43780.0,,,,,,,,,,,,,0.0
+70000.0,Guarda,Vila Nova de Foz Côa,Vila Nova de Foz Côa,Apartment,E,1st Floor,False,1.0,True,2000.0,137.0,,,,,,3.0,,,,107.0,,,1.0
+20000.0,Guarda,Gouveia,Figueiró da Serra e Freixo da Serra,House,NC,,False,0.0,False,,176.0,357.0,,,,,5.0,,,,322.0,,,0.0
+450000.0,Guarda,Figueira de Castelo Rodrigo,Escalhão,House,A,,False,3.0,True,2010.0,306.0,502.0,,,,,5.0,,,,247.0,,,4.0
+79500.0,Guarda,Sabugal,Casteleiro,Land,NC,,False,0.0,False,1989.0,33380.0,,,,,,,,,,,,,0.0
+14000.0,Guarda,Figueira de Castelo Rodrigo,"Algodres, Vale de Afonsinho e Vilar de Amargo",House,NC,,False,0.0,False,1970.0,67.0,,,,,,2.0,,,,67.0,,,0.0
+20000.0,Viseu,Tondela,Guardão,Land,NC,,False,0.0,False,1981.0,1540.0,1540.0,,,,,,,,,1540.0,,,0.0
+110000.0,Guarda,Seia,Vila Cova Ã  Coelheira,House,F,,False,2.0,True,1937.0,154.0,318.0,,,,,3.0,,,,154.0,,,0.0
+90000.0,Guarda,Seia,"Seia, São Romão e Lapa dos Dinheiros",Land,NC,,False,0.0,False,,3060.0,3060.0,,,,,,,,,3060.0,,,0.0
+8500.0,Guarda,Gouveia,Vila Nova de Tazem,Land,NC,,False,0.0,False,,3950.0,,,,,,,,,,,,,0.0
+17000.0,Guarda,Almeida,Miuzela e Porto de Ovelha,House,NC,,False,0.0,False,1937.0,177.0,178.0,,,,,0.0,,,,84.0,,,1.0
+65000.0,Guarda,Pinhel,Souro Pires,Other - Residential,F,,False,3.0,True,,600.0,710.0,,,,,,,,,,,,0.0
+18000.0,Guarda,Seia,Travancinha,House,NC,,False,0.0,False,1947.0,157.0,,,,,,0.0,,,,45.0,,,0.0
+40000.0,Guarda,Trancoso,Freches e Torres,House,A,,False,1.0,True,1937.0,257.0,284.0,,,,,4.0,,,,127.0,,,1.0
+95000.0,Guarda,Guarda,Videmonte,House,F,,False,2.0,True,1991.0,397.0,315.0,,,,,3.0,,,,216.0,,,1.0
+120000.0,Guarda,Gouveia,Gouveia (São Pedro e São Julião),House,E,,False,1.0,True,1988.0,113.0,136.0,,,,,4.0,,,,110.0,,,0.0
+95000.0,Guarda,Guarda,Guarda,Store,A,Ground Floor,False,0.0,False,2003.0,70.0,70.0,,,,,,,,,65.0,,,1.0
+65000.0,Guarda,Celorico da Beira,Celorico (São Pedro e Santa Maria) e Vila Boa do Mondego,Farm,NC,,False,0.0,False,,54900.0,,,,,,,,,,,,,0.0
+39900.0,Guarda,Pinhel,Freixedas,House,F,,False,3.0,True,1949.0,400.0,,,,,,2.0,,,,258.0,,,1.0
+30000.0,Guarda,Almeida,Almeida,House,NC,,False,1.0,True,1976.0,64.0,43.0,,,,,1.0,,,,38.0,,,0.0
+24900.0,Guarda,Sabugal,Sortelha,Land,NC,,False,0.0,False,,3980.0,,,,,,,,,,,,,0.0
+53900.0,Guarda,Gouveia,Figueiró da Serra e Freixo da Serra,Land,NC,,False,3.0,True,,34600.0,34600.0,,,,,0.0,,,,,,,0.0
+50000.0,Guarda,Gouveia,Ribamondego,House,F,,False,1.0,True,2003.0,112.0,112.0,,,,,1.0,,,,107.0,,,0.0
+35000.0,Guarda,Guarda,Maçainhas,House,NC,,False,0.0,False,1937.0,59.0,,,,,,3.0,,,,79.0,,,1.0
+89500.0,Guarda,Guarda,Guarda,Store,C,,False,2.0,True,2008.0,100.0,,,,,,,,,,,,,2.0
+540000.0,Guarda,Seia,Paranhos,House,C,,False,3.0,True,1970.0,4829.0,697.0,,,,,10.0,,,,310.0,,,3.0
+25000.0,Guarda,Sabugal,Bendada,Land,NC,,False,0.0,False,1989.0,4190.0,,,,,,,,,,,,,0.0
+50000.0,Guarda,Trancoso,Trancoso (São Pedro e Santa Maria) e Souto Maior,Land,NC,,False,0.0,False,,16762.0,,,,,,,,,,,,,0.0
+45000.0,Guarda,Sabugal,Rendo,House,F,,False,3.0,True,2019.0,371.0,216.0,,,,,3.0,,,,73.0,,,1.0
+165000.0,Guarda,Vila Nova de Foz Côa,Custóias,House,F,,False,2.0,True,1984.0,960.0,,,,,,4.0,,,,179.0,,,3.0
+135000.0,Guarda,Gouveia,Vila Nova de Tazem,Building,C,,False,3.0,True,2009.0,362.0,391.0,,,,,0.0,,,,173.0,,,3.0
+136000.0,Viseu,Tondela,Guardão,House,E,,False,0.0,False,2005.0,151.0,,,,,,3.0,,,,217.0,,,2.0
