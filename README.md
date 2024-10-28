@@ -42,6 +42,8 @@ portuguese-real-estate-eda/
 └── data/                     # Directory for data files
     ├── portugal_housing_chunk_1.csv  # First chunk of the dataset
     └── portugal_housing_chunk_2.csv  # Second chunk of the dataset
+    └── portugal_housing_chunk_3.csv  # Third chunk of the dataset
+    └── portugal_housing_chunk_4.csv  # Fourth chunk of the dataset
 
 
 ### Key Scripts
