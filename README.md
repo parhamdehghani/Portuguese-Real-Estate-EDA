@@ -32,6 +32,7 @@ The data allows for analyses such as price trends, geographical influences, and 
 The repository follows a modular structure to ensure reusability of code:
 
 portuguese-real-estate-eda/
+
 ├── EDA.ipynb                 # Main Jupyter Notebook for the entire EDA workflow
 ├── data_preprocessing.py     # Script with data cleaning and feature engineering functions
 ├── visualization.py          # Script with functions for data visualizations
