@@ -37,7 +37,7 @@ portuguese-real-estate-eda/
 ├── visualization.py          # Script with functions for data visualizations
 ├── requirements.txt          # File with dependencies for the project
 ├── README.md                 # Project documentation
-├── images/                   # Directory for saved images (e.g., plots, interactive maps)
+├── images/                   # Directory for saved images
 └── data/                     # Directory for data files
     ├── portugal_housing_chunk_1.csv  # First chunk of the dataset
     └── portugal_housing_chunk_2.csv  # Second chunk of the dataset
@@ -54,7 +54,7 @@ portuguese-real-estate-eda/
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/portuguese-real-estate-eda.git
+    git clone https://github.com/parhamdehghani/portuguese-real-estate-eda.git
     cd portuguese-real-estate-eda
     ```
 
@@ -89,12 +89,6 @@ portuguese-real-estate-eda/
 - **Geographical Influences**: Certain districts have notably higher property prices, influenced by factors such as location desirability and property type.
 - **Energy Efficiency**: Energy certification impacts property pricing, with more efficient properties typically having higher asking prices.
 - **Price per Square Meter**: Reveals key insights into cost-efficiency across different regions and property types.
-
----
-
-## Contributing
-
-Contributions are welcome! Please fork the repository, make your changes, and submit a pull request.
 
 ---
 
